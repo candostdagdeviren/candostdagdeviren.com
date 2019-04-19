@@ -20,8 +20,6 @@ toc_sticky: true
 toc_label: "Almanya’da Çalışan Hakları"
 ---
 
-
-
 Daha önceki yazılarda Almanya’da [iş bulma](/bir-sektorel-profesyonel-icin-almanyada-is-arama-ve-mulakat-surecleri/), [işe başlama süreci](/bir-kalifiye-eleman-almanyada-nasil-calismaya-baslar/) ve [günlük yaşam](almanyada-gunluk-yasamin-merak-edilenleri/) üzerine değinmiştim. Uzun zamandır yazmayı düşündüğüm bir diğer konu da çalışanlar için sosyal haklardı. Almanya’ya taşınmayı düşünenlerin, yaşamı merak edenlerin kafasında oluşan bazı sorular izinler, sağlık sistemi, vergiler, doğum izni gibi konularda toplanıyor. Kendi deneyimlerim, günlük yaşantıda öğrendiklerim ve özellikle de çalışanların bu hakları kullanımlarındaki karşılaştığım tutumlarına değineceğim. Almanya’nın herkese verdiği sosyal haklardan, iş yerindeki genel yaklaşımlardan, sonrasında da muhtemel ekstra haklardan bahsedeceğim.
 
 ## Vergiler
