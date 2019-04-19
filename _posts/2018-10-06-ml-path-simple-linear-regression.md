@@ -29,9 +29,7 @@ First, we want to predict in a better way, by looking at the data and approachin
 
 As a simple example of a linear function, we’ll use the following equation:
 
-{:refdef: style="text-align: center;"}
-![linear-regression-formula]({{ site.baseurl }}/assets/images/linear-regression-formula.gif)
-{: refdef}
+![linear-regression-formula]({{ site.baseurl }}/assets/images/linear-regression-formula.gif){: .align-center}
 
 Let’s split this equation into the parts and check one by one. *w* is called a weight/parameter. *x* is the input/feature and *b* is the bias.
 
@@ -49,9 +47,7 @@ Let’s split this equation into the parts and check one by one. *w* is called a
 
 There are two types of Linear Regression, simple (univariate) and multiple (multivariate). We’ll define the general rules and strategy of linear regression mainly under linear regression for simplicity now. Then, we’ll focus on the multiple linear regression based on the learnings in here. In simple linear regression, we have only one feature. We can think the price of the house is only dependent on the size of the house. So, we only care about one feature. This is why it’s called simple.
 
-{:refdef: style="text-align: center;"}
-![linear-regression]({{ site.baseurl }}/assets/images/linear-regression.png)
-{: refdef}
+![linear-regression]({{ site.baseurl }}/assets/images/linear-regression.png){: .align-center}
 
 The red dots in the graph above represents our data set. Let’s guess some parameters and bias and draw our linear line into our data set like above. This seems like a pretty good guess when you think the whole data. But we will have errors shown with gray vertical lines in the graph. Those errors are our cost of not being able to fit all the data. So, every approach will come with a cost and we’ll measure our prediction’s performance according to the cost.
 
@@ -59,9 +55,7 @@ The red dots in the graph above represents our data set. Let’s guess some para
 
 As we said, we are using the cost function to measure the performance of the model. But how do we calculate the error in general? As stated in the graph as gray vertical lines, the difference between actual value and the predicted value gives the error. By calculating the error we can measure the accuracy of our prediction function. After finding the error, our main idea will change and we’ll try to choose the parameter (w) and bias (b) values so that our cost will be minimum. Calculating the error comes from the simple mathematical approach; calculating the distance between two points. Therefore, we’ll use mean squared error.
 
-{:refdef: style="text-align: center;"}
-![mean-squared-error]({{ site.baseurl }}/assets/images/mean-squared-error.gif)
-{: refdef}
+![mean-squared-error]({{ site.baseurl }}/assets/images/mean-squared-error.gif){: .align-center}
 
 We can see in the formula that we subtract the actual value from the predicted value. And we take squares to get rid of negativity. Lastly, we take the average of our error in the whole of our data set. So, this measures the error. When the y^and *y* are equal, the error will be 0. When the Euclidian distance between predicted value and actual value increases, the error increases as well.
 
