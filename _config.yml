@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "Candost Dagdeviren"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iOS/Software Developer. Curious about Science and Artificial General Intelligence. Writes about tech & science."
+  avatar           : "/assets/images/candost_circled.png"
+  bio              : "Software Developer. Curious. Writes about tech & science."
   location         : "Hamburg / Innsbruck"
   email            :
   links:
