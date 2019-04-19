@@ -15,7 +15,6 @@ read_time: true
 comments: true
 share: true
 related: true
-toc: true
 ---
 
 Multiple environments like staging, production, development are standard in the software development community. When we combine this approach with AWS usage, we come across a problem where we have to define a user for each environment. We either create a new IAM user separately under the same organization or use multiple organizations. There are two other approaches which we shouldn’t do it at all, using an admin or creating one user for all.
