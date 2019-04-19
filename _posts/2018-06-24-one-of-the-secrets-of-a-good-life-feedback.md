@@ -1,14 +1,14 @@
 ---
 layout: single
 title: "One of the secrets of a good life: Feedback"
-date: 2018-08-30
-categories: [Personal]
-tags: [AWS, Terraform, Software Development, DevOps, Best Practices]
+date: 2018-08-24
+categories: [Personal, English]
+tags: [Feedback, Lifestyle, Trust, Schools, Business]
 header:
   image: assets/images/morgan-sessions-6255-unsplash.jpg
   caption: Photo by [Morgan Sessions](https://unsplash.com/photos/YIN4xUBaqnk) on [Unsplash](https://unsplash.com)
-excerpt: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
-meta: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
+excerpt: "Feedback is defined as a reaction after a behavior or statement. But what does it really mean for us?"
+tags: false
 read_time: true
 comments: true
 share: true

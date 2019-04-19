@@ -2,7 +2,7 @@
 layout: single
 title: "ML Path: Simple Linear Regression"
 date: 2019-03-25
-categories: [Software Development]
+categories: [Software Development, English]
 tags: [AWS, Terraform, Software Development, DevOps, Best Practices]
 header:
   overlay_image: assets/images/alex-perez-612633-unsplash.jpg
@@ -11,6 +11,7 @@ header:
   caption: Photo by [Alex Perez](https://unsplash.com/photos/FS7UNiVGeWQ) on [Unsplash](https://unsplash.com)
 excerpt: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
 meta: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
+tags: false
 read_time: true
 comments: true
 share: true

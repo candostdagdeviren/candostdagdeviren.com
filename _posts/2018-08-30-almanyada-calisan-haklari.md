@@ -2,15 +2,15 @@
 layout: single
 title: "Almanya’da Çalışan Hakları"
 date: 2018-08-30
-categories: [Personal]
-tags: [AWS, Terraform, Software Development, DevOps, Best Practices]
+categories: [Personal, Turkish]
+tags: [Germany, Türkçe, Social, Work, Work Life Balance, Social Rights, Work Rights]
 header:
   overlay_image: assets/images/aman-bhargava-unsplash.jpeg
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
   caption: Photo by Aman Bhargava on [Unsplash](https://unsplash.com)
-excerpt: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
-meta: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
+excerpt: "Çalışanları, verdiği haklarla sağlam bir şekilde zalim işverenlerden koruyan Almanya bu alanda örnek uygulamalara sahip. Peki Almanya'da çalışan hakları nelerdir?"
+tags: false
 read_time: true
 comments: true
 share: true
