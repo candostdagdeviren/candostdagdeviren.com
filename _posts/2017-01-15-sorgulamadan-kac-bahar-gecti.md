@@ -1,0 +1,31 @@
+---
+layout: single
+title: "Sorgulamadan kaç bahar geçti?"
+date: 2017-01-15
+categories: [Personal, Turkish]
+tags: [Türkçe, Skeptiszm, Sorgulamak, Skeptic, Skepticism]
+excerpt: "Soru sormak, sorgulamak hayatımızın her ne kadar parçası olsa da çoğu zaman arka plana attığımız bir şey."
+header:
+  image: assets/images/sorgulamadan-kac-bahar-gecti-cover.jpeg
+tags: false
+read_time: true
+comments: true
+share: true
+related: true
+---
+
+Soru sormak, sorgulamak hayatımızın her ne kadar parçası olsa da çoğu zaman arka plana attığımız bir şey. Oysa gün geçtikçe daha da önemli bir konuma geliyor. Gerek sosyal medyanın etkisi gerekse güvenilemeyecek derecede haber yapan medya sorgulamanın önemini arttırıyor. Bu dönemde bize düşen ise gördüğümüz veya duyduğumuz her şeye direkt olarak inanmamak.
+
+Bunun en temelinde aslında [Skepticizm](https://www.wikiwand.com/en/Skepticism) yani [Kuşkuculuk](https://www.wikiwand.com/tr/Ku%C5%9Fkuculuk) akımı mevcut. Bu akımın Vikipedi’de bulunan tanımı ise şu şekilde: “Kuşkuculuk, septisizm, skeptisizm veya şüphecilik, her tür bilgi savını kuşkuyla karşılayan, bunların temellerini, etkilerini ve kesinliklerini irdeleyen, ayrıca aklın kesin bir bilgi elde edemeyeceğini, hakikate erişilse dahi sürekli ve tam bir şüphe içinde kalınacağını, *mutlak*`a ulaşmanın mümkün olmadığını savunan felsefi görüştür.”. Her ne kadar bu tanımda bahsedilen kadar kuşkucu olamayacak olsam da skeptistlerden duyduğum yöntemleri uygulamak (tabi önce yöntemlerin işe yarayıp yaramadığını test etmek) bu hayatta kendime edindiğim küçük hobilerden birisi oldu.
+
+Twitter, Facebook gibi sosyal ortamların neden olduğu, üç cümleden daha fazla okumaya tahammülü olmayan insanların oluşturduğu bu dünyada yapılacak ilk şey okuduğunuz bilginin detaylarını da incelemek. Yani bir haber gördüğünüz zaman sadece başlığına değil bütün habere göz gezdirmeniz gerekir. Bunun sebebi ise çoğunlukla başlık ile içeriğin birbirinden alakasız olması. Bütün haberi okumanıza da gerek yok kısa bir göz gezdirmeden sonra artık sorgulama aşamasının içerisine girebilirsiniz.
+
+İzlenilebilecek ilk ve en kolay yol bilginin yanlış olduğunu ortaya çıkarabilecek bir araştırma yapmak. Bir yerde izlediğiniz, gördüğünüz veya duyduğunuz bir bilginin yanlış olduğunu ispatlamak çok daha kolaydır. Örnek olarak bir haberde bir resim veya fotoğraf gördüğünüz zaman [Google Resim Arama (Image Search)](https://images.google.com/) ile resmi aradığınızda çıkan sonuçlardan o resmin ilk yüklendiği tarihi görebilirsiniz. Bu şekilde haberin kullandığı kaynakların yanlışlığını kısa bir zamanda kanıtlayabilirsiniz. Bu ve bunun gibi [bir çok yöntem](https://yalansavar.org/2012/08/22/palavra-tespit-kiti/) var.
+
+Genel olarak güvenebileceğiniz kaynaklar ise birçok bilim adamı tarafından kabul görmüş bilimsel makaleler diyebiliriz. Ancak bilim adamları da daha önce defalarca yanılmışlardır ve hata yapmışlardır. Yapılan hatalar olmasaydı şu anki bilgi birikimimizin bu kadar ilerleme şansı olmazdı. Bir bilim adamının uzmanlık alanında yayınladığı makaleye veya söylediği bir şeye tabi ki çoğu zaman güvenebilirsiniz. Benim burada asıl parmak basmak istediğim nokta ‘Nobel Hastalığı’ diye tabir edilen durumların oluşmasına sebebiyet verebilecek güveni sağlamamak. [Açık Bilim](http://www.acikbilim.com/)’den [Çağrı Yalgın](https://medium.com/@drYalgin)’ın tanımıyla [Nobel hastalığını](http://www.acikbilim.com/2014/01/dosyalar/nobel-hastaligi.html) kısaca şu şekilde açıklayabiliriz: “Bu bir sağlık sorunu değil. Yalnızca, büyük başarılara imza atmış birinin, bilmeden başka alanlarda da ahkâm kesme yetkisini kendinde bulmasına deniyor.”. Buna sebep olan durumlar ise insanların Nobel ödülü almış insanlara sorgulamadan aşırı derecede güvenmeleri. Bu da başarılı olan insanın kendini uzmanlığının olmadığı alanlarda da yetkin hissetmesine yol açıyor. Bu konuyla ilgili içerisinde [Çağrı Yalgın](https://medium.com/@drYalgin)’ın da yer aldığı [Yalansavar](https://yalansavar.org/) ekibinin bir tane [cepyayını (podcast’i)](https://yalansavar.org/2016/06/27/podcast-10-nobel-hastaligi/) mevcut. Dinlemenizi tavsiye ederim.
+
+Hazır [Yalansavar](https://yalansavar.org/)’a değinmişken onlardan da bahsedelim. Ben, okuduğum her haberi, gördüğüm her tweet’i sorgulamaya çalışırken bu alanda da kendimi geliştirmek için yeni yöntemler araştırıyorum. Bu araştırma sırasında karşıma ilk çıkan da aslında Yalansavar oldu. Kendi tanımlarıyla Yalansavar, eleştirel düşünce ve bilim tutkunlarının bir araya gelerek oluşturduğu gönüllü bir platform. Amaçları, sağlıklı bir toplum için elzem olan eleştirel düşünce alışkanlığını yaymaya katkıda bulunmak ve muhtelif asılsız iddiaları irdelemek. 11 kişiden oluşan bu ekip podcast’ler ve blog yazıları ile size bu alanda ilk ışığı tutacak insanlar diyebiliriz. Oradan sonra kendi yolunuzu bulmaya başlayabilirsiniz.
+
+Sorgulayarak, araştırarak ve tek bir düşüncenin daimi bir taraftarı olmayarak geçireceğimiz günler bizden adım adım uzaklaşırken siz bir şeyleri sorguladığınız zaman çok garip ve saçma tartışmaların içerisinde kendinizi bulabilirsiniz. Özellikle günümüzde güncel politik olayların sorgulanmasına taraflar sıcak bakmıyorlar. Ben 15 Temmuz darbesinin detaylarını sorgulamaya çalıştığım zaman kendimi iki gün süren bir tartışmanın içerisinde buldum. Sonuca bile ulaşma amacımın olmadığı konuşma neyse ki hakaret seviyesine gelmeden kapandı. Demem o ki, kuşkuculuğa, sorgulamaya başladığınız zaman kendinizi hazırlayın. Her zaman hoş karşılanmayacaksınız. Hatta bazen siz sadece sorgulayalım dediğinizde bile kimse yanaşmayacak, dinlemeyecek. Ancak unutmamak gerekir ki, bir ortamı aydınlatmak için küçük bir lamba hatta bir mum yeterlidir. Umarım o mum olmak için atacağınız her adım sizi tam aydınlığa ve doğru bilgiye bir adım daha yaklaştırır.
+
+*Okuduğunuz için teşekkürler. [Twitter](http://bit.ly/1qxjddC) ve [GitHub](http://bit.ly/1S1gP9z) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter’da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.*
