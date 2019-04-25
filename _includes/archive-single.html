@@ -24,11 +24,13 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.header.overlay_image %} <img class="img-fluid" src="{% if post.header.overlay_image contains "://" %}{{ post.header.overlay_image }}{% else %}
-              {{ post.header.overlay_image | | relative_url }}{% endif %}" alt="{{ post.title }}">
-      {% else if post.header.image %} <img class="img-fluid" src="{% if post.header.image contains "://" %}{{ post.header.image }}{% else %}
-              {{ post.header.image | | relative_url }}{% endif %}" alt="{{ post.title }}">
-      {% endif %}
+      {% if post.header %}
+        {% if post.header.overlay_image %} <img class="img-fluid" src="{% if post.header.overlay_image contains "://" %}{{ post.header.overlay_image }}{% else %}
+                {{ post.header.overlay_image | | relative_url }}{% endif %}" alt="{{ post.title }}">
+        {% else if post.header.image %} <img class="img-fluid" src="{% if post.header.image contains "://" %}{{ post.header.image }}{% else %}
+                {{ post.header.image | | relative_url }}{% endif %}" alt="{{ post.title }}">
+        {% endif %}
+      {% endif%}
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
