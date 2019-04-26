@@ -12,7 +12,7 @@ share: true
 related: true
 ---
 
-[İlk yazıdan]({{ site.baseUrl }}/bir-yazilimci-almanyada-nasil-calismaya-baslar) sonra en çok gelen sorulardan bazıları bunlardı. Bunun üzerine bu konuda da bir öneri sunabileceğim bir yazı hazırlamaya karar verdim.
+[İlk yazıdan]({{ site.baseUrl }}/bir-kalifiye-eleman-almanyada-nasil-calismaya-baslar) sonra en çok gelen sorulardan bazıları bunlardı. Bunun üzerine bu konuda da bir öneri sunabileceğim bir yazı hazırlamaya karar verdim.
 
 Bu işin tek bir yolu veya bilinen bir yöntemi yok. Burada bildiğim ve/veya izlediğim yolları sizinle paylaşabilirim. En başta üzerine bastıra bastıra belirtmem gereken bir şey var. Yorucu ve zaman alan bir işe bulaşıyorsunuz. Gerçekten yıpratan bir süreç haline dönüşebiliyor ve pes etmeden sonuna kadar gitmeniz gerekiyor. Mülakat saatlerini iş çıkış saatlerine getirmeniz, koşa koşa eve gitmeniz, kimi zaman öğle arasında yemeği pas geçmeniz ve elinizde dinleneceğiniz tek zaman olan haftasonlarınızı da bu işe ayırmanız gerekiyor. Yani gitmeyi gerçekten kafanıza koymadıysanız boşuna uğraşmayın. Zira yarı yolda bırakıp, kendinizi de yormanıza gerek yok.
 
@@ -97,9 +97,9 @@ Son mülakattan sonra ortalama teklif alma süresi: **1–3 hafta**
 
 Bütün süreçlerden başarıyla geçerseniz teklif alma sırası geliyor. Eğer teklif hoşunuza gitmezse pazarlık yapmaktan çekinmeyin.
 
-Süreç genel olarak bu şekilde. Bütün süreç ortalama olarak **2 aydan fazla** sürüyor diyebiliriz. En başında dediğim gibi bu iş emek ve sabır isteyen bir şey. Gerçekten kafanıza koymadıysanız boşuna emek harcayıp kendinizi daha fazla yormayın. Ancak diyelim ki her şey olumlu geçti. Karşılıklı anlaştınız ve sıradaki adım ne diye merak ediyorsunuz. Neyse ki önceden hazırlanmış [bir rehberiniz]({{ site.baseUrl }}/bir-yazilimci-almanyada-nasil-calismaya-baslar) mevcut.
+Süreç genel olarak bu şekilde. Bütün süreç ortalama olarak **2 aydan fazla** sürüyor diyebiliriz. En başında dediğim gibi bu iş emek ve sabır isteyen bir şey. Gerçekten kafanıza koymadıysanız boşuna emek harcayıp kendinizi daha fazla yormayın. Ancak diyelim ki her şey olumlu geçti. Karşılıklı anlaştınız ve sıradaki adım ne diye merak ediyorsunuz. Neyse ki önceden hazırlanmış [bir rehberiniz]({{ site.baseUrl }}/bir-kalifiye-eleman-almanyada-nasil-calismaya-baslar) mevcut.
 
-[Bir kalifiye eleman Almanya’da nasıl çalışmaya başlar?]({{ site.baseUrl }}/bir-yazilimci-almanyada-nasil-calismaya-baslar)
+[Bir kalifiye eleman Almanya’da nasıl çalışmaya başlar?]({{ site.baseUrl }}/bir-kalifiye-eleman-almanyada-nasil-calismaya-baslar)
 {: .notice--success .text-center }
 
 Peki Almanya’da günlük yaşam nasıl?

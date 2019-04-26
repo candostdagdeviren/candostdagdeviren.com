@@ -78,7 +78,7 @@ Hasta olduğunuz durumlarda işyerinde gereken yerlere bildirdiğiniz sürece, *
 
 Ayrıca uzun süreli hastalık durumlarında ilk altı hafta maaşınızın %100’ünü almaya devam edersiniz.
 
-Sağlık sigortasının ve sigortaya kayıt sürecinin nasıl işlediğine daha [önceden değinmiştim](https://medium.com/@candost/bir-yazilimci-almanyada-nasil-calismaya-baslar-2749ac4b3121).
+Sağlık sigortasının ve sigortaya kayıt sürecinin nasıl işlediğine daha [önceden değinmiştim]({{ site.baseUrl }}/bir-kalifiye-eleman-almanyada-nasil-calismaya-baslar).
 
 ## Doğum izni
 
