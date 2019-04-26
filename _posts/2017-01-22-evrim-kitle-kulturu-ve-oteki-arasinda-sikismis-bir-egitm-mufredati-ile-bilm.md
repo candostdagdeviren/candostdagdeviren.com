@@ -76,11 +76,11 @@ Eski biyoloji dersi müfredatında olup da yeni müfredatta bulunmayan 12. sın�
 3. Fosillerin araştırılmasından elde edilen bilgilerin yaşamın anlaşılmasına sağladığı katkılar (evrim ve hayatin ortaya cikisiyla direkt baglantili)
 4. Doğadaki değişimler evrimi nasıl etkiler?
 
-## Teşekkürler
-
 Bu yazı her ne kadar benim adımda yayınlanmış olsa da birlikte yazdığımız Ekin Şahindokuyucu’ya sonsuz teşekkürlerimi sunarım. Kitle kültürü, oksidentalizm gibi kavramları ortaya çıkarıp durum ile bağlantılarını kurmama yardımcı olmasaydı bu yazı sadece pozitif bilim üzerinden ele alınmış olarak kalacaktı.
+{: .notice--success }
 
 Ayrıca verdikleri fikirleri, yaptıkları eleştirileri ve yönlendirmeleri için Elif Bengi Akkuş’a, Gökçe Senger’e, [Melih Buğra Duymaz](https://medium.com/@MelihBugra)’a, Tutku Yaraş’a ve Zeynep Burcu Akkuş’a en içten teşekkürlerimi sunarım.
+{: .notice--info }
 
 *Okuduğunuz için teşekkürler. Sosyal platformlarda paylaşarak diğer insanlara ulaştırmada yardımcı olabilirsiniz. [Twitter](http://bit.ly/1qxjddC) üzerinden beni takip edebilirsiniz. Yorumlarınızı ve düşüncelerinizi Twitter’da ve/veya burada yorumlarda bekliyorum.*
 
