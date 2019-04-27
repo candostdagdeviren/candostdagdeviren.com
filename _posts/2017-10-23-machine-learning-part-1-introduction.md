@@ -6,7 +6,6 @@ categories: [Machine Learning, English]
 tags: [Machine Learning, English, Supervised Learning, Unsupervised Learning, Reinforcement Learning]
 header:
   image: /assets/images/machine-learning-part-1-introduction-cover.png
-tags: false
 read_time: true
 comments: true
 share: true

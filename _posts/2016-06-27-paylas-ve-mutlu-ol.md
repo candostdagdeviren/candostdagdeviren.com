@@ -2,7 +2,7 @@
 layout: single
 title: "Paylaş ve mutlu ol"
 date: 2016-06-27
-categories: [Turkish, personal]
+categories: [Turkish, Personal]
 tags: [Türkçe, Paylaş, Life, Life Lessons, Humanity, Share]
 header:
   image: assets/images/paylas-ve-mutlu-ol-cover.jpeg

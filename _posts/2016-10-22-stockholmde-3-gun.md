@@ -8,7 +8,6 @@ excerpt: "Her zaman gitmek istediğim şehirlerden biri olan Stockholm'e ucuz bi
 header:
   image: assets/images/stockholmde-3-gun-cover.jpeg
   caption: Stortorget | Gamla Stan
-tags: false
 read_time: true
 comments: true
 share: true

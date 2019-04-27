@@ -5,7 +5,6 @@ date: 2016-07-10
 categories: [Turkish, Personal]
 tags: [Germany, Türkçe, Social, Work, Beginning, Hiring]
 excerpt: "Kalifiye eleman söylemini ne kadar sevmesem de, bu yazıda üniversite mezunu ve/veya Almanya tarafından kalifiye eleman olarak değerlendirilebilecek insanların Almanya’da çalışmaya başlarken karşılaşacakları süreçlerde neler yapmaları gerektiğini anlattım."
-tags: false
 read_time: true
 comments: true
 share: true

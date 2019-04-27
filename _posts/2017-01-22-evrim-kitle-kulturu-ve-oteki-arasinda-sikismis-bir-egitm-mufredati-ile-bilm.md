@@ -8,7 +8,6 @@ excerpt: "2017–2018 Eğitim Öğretim Müfredatı'nda Evrimin olmamasının al
 header:
   overlay_image: assets/images/evrim-kitle-kulturu-ve-oteki-arasinda-sikismis-bir-egitm-mufredati-ile-bilm-cover.png
   overlay_filter: rgba(0, 0, 0, 0.44)
-tags: false
 read_time: true
 comments: true
 share: true

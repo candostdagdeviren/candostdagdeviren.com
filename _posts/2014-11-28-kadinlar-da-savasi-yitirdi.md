@@ -7,7 +7,6 @@ tags: [Türkçe, Evrim, Evolution, Education, Eğitim]
 excerpt: "İstanbul Devlet Tiyatrosu gururla sunar. *Yönetmen: Galip Erdal*"
 header:
   overlay_image: assets/images/kadinlar-da-savasi-yitirdi.jpeg
-tags: false
 read_time: true
 comments: true
 share: true

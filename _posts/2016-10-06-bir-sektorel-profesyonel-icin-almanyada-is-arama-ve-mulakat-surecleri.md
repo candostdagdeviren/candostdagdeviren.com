@@ -5,7 +5,6 @@ date: 2016-10-06
 categories: [Turkish, Travel]
 tags: [Germany, Türkçe, Social, Work, Social Rights, Job Search]
 excerpt: "Almanya’da nasıl iş bulabilirim ve süreçler nasıl oluyor sorularının cevapları"
-tags: false
 read_time: true
 comments: true
 share: true

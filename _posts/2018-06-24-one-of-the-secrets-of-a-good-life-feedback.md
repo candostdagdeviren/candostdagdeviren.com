@@ -8,7 +8,6 @@ header:
   image: assets/images/morgan-sessions-6255-unsplash.jpg
   caption: Photo by [Morgan Sessions](https://unsplash.com/photos/YIN4xUBaqnk) on [Unsplash](https://unsplash.com)
 excerpt: "Feedback is defined as a reaction after a behavior or statement. But what does it really mean for us?"
-tags: false
 read_time: true
 comments: true
 share: true

@@ -9,7 +9,6 @@ header:
   overlay_image: assets/images/merak-bilgi-dikkat-cover.jpeg
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
-tags: false
 read_time: true
 comments: true
 share: true

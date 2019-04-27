@@ -2,13 +2,17 @@
 main:
   - title: "Home"
     url: /
+    description: Recent Posts
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Türkçe(🇹🇷)"
+    url: /categories/Turkish
+    description: All posts written in Turkish
+  - title: "English(🇬🇧)"
+    url: /categories/English
+    description: All posts written in English
+  - title: "Software Development"
+    url: /categories/software-development
+    description: All posts related to Software Development
   # - title: "Sitemap"
   #   url: /sitemap/

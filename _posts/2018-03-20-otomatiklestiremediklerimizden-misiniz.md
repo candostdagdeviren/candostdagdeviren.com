@@ -8,7 +8,6 @@ header:
   image: assets/images/barn-images-12223-unsplash.jpg
   caption: Photo by [Barn Images](https://unsplash.com/photos/t5YUoHW6zRo) on [Unsplash](https://unsplash.com)
 excerpt: "Temelinde otomasyon, kapitalist sistemin kâr marjını arttırmak için var olan bir trend gibi düşünülse de bu çerçevede gelişen ve geliştirilen teknoloji, hayatın tamamına çok büyük faydalar sağlıyor."
-tags: false
 read_time: true
 comments: true
 share: true

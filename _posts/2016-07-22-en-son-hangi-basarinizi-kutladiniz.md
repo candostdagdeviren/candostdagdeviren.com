@@ -7,7 +7,6 @@ tags: [Türkçe, Success, Başarı]
 excerpt: "veya en son ne zaman bir şey başardığınızı farkettiniz?"
 header:
   image: assets/images/en-son-hangi-basarinizi-kutladiniz-cover.jpeg
-tags: false
 read_time: true
 comments: true
 share: true

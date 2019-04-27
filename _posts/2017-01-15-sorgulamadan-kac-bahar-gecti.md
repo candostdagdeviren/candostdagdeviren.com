@@ -7,7 +7,6 @@ tags: [Türkçe, Skeptiszm, Sorgulamak, Skeptic, Skepticism]
 excerpt: "Soru sormak, sorgulamak hayatımızın her ne kadar parçası olsa da çoğu zaman arka plana attığımız bir şey."
 header:
   image: assets/images/sorgulamadan-kac-bahar-gecti-cover.jpeg
-tags: false
 read_time: true
 comments: true
 share: true

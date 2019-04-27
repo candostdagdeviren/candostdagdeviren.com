@@ -8,7 +8,6 @@ header:
   image: assets/images/hamburg-insanlari.jpeg
   caption: Hamburg İnsanları - Fotoğraf [Sabrican Özan](https://twitter.com/sabrican_ozan)
 excerpt: "Yurtdışında yaşamayı düşünenler için Almanya bilgileri. Günlük hayatta olayların nasıl ilerlediği, kolaylıklar ve zorluklardan bahsettim."
-tags: false
 read_time: true
 comments: true
 share: true
