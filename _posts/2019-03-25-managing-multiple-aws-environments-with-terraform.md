@@ -28,7 +28,7 @@ While IAM allows us to manage access to resources, Terraform has a Workspaces fe
 
 After creating a new Terraform file named users.tf, we should define the resources (users) which we will use. We define an `iam_user` variable and give a default name and description. And we define an `aws_iam_user` resource for our defined user name.
 
-```terraform
+```hcl
 variable "iam_user" {
   default     = "candost"
   description = "My AWS IAM user"
@@ -37,7 +37,7 @@ variable "iam_user" {
 
 Now we define a `aws_iam_user` resource for our defined user. In here we use the variable in the name field for our resource.
 
-```terraform
+```hcl
 resource "aws_iam_user" "candost" {
   name = "${var.iam_user}"
   path = "/"
@@ -46,7 +46,7 @@ resource "aws_iam_user" "candost" {
 
 Lastly, we define a `aws_iam_user_policy` to attach necessary resource permissions to our brand new user. We give our user name in user property as `aws_iam_user.candost.name`. This will fetch the name we defined with `user` variable. We assume that we have defined a DynamoDB Table named _MyTable_. I’ll explain the setup of that table later.
 
-```terraform
+```hcl
 resource "aws_iam_user_policy" "candost_policy" {
   name_prefix = "${var.iam_user}"
   user        = "${aws_iam_user.candost.name}"
@@ -72,7 +72,7 @@ EOF
 
 Now, let’s add the environment. Terraform gives access to current workspace with `${terraform.workspace}` variable. We’ll append this to our resources. Here is the final version with multiple environments.
 
-```terraform
+```hcl
 variable "iam_user" {
   default     = "candost"
   description = "My AWS IAM user"
@@ -106,7 +106,7 @@ EOF
 
 As we can see, we changed nothing except combining the user name and the Terraform workspace. But they still access the same table. We need to separate that table too. Let’s take a look at how we add a resource for the DynamoDB table. We create a *database.tf* file and put the following code in there.
 
-```terraform
+```hcl
 resource "aws_dynamodb_table" "MyTable" {
   name           = "MyTable-${terraform.workspace}"
   read_capacity  = 20
@@ -122,7 +122,7 @@ resource "aws_dynamodb_table" "MyTable" {
 
 Now, we have a table code which will work with multiple environments and it will help us to create different tables for different environments. **So, one code will generate multiple environments setup.** Let’s update our policy for the new DynamoDB table resource and finish up. Here is the final version:
 
-```terraform
+```hcl
 variable "iam_user" {
   default     = "candost"
   description = "My AWS IAM user"
