@@ -16,6 +16,7 @@ comments: true
 share: true
 related: true
 toc: true
+toc_sticky: true
 toc_label: "Simple Linear Regression"
 ---
 
