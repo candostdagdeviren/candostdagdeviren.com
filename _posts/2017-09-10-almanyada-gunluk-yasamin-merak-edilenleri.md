@@ -5,7 +5,7 @@ date: 2017-09-10
 categories: [Personal, Turkish]
 tags: [Germany, Türkçe, Social, Work Life Balance, Life, Daily Life]
 header:
-  image: assets/images/hamburg-insanlari.jpeg
+  image: assets/images/hamburg-insanlari.jpx
   caption: Hamburg İnsanları - Fotoğraf [Sabrican Özan](https://twitter.com/sabrican_ozan)
 excerpt: "Yurtdışında yaşamayı düşünenler için Almanya bilgileri. Günlük hayatta olayların nasıl ilerlediği, kolaylıklar ve zorluklardan bahsettim."
 read_time: true
@@ -33,7 +33,7 @@ Ulaşım tahmin edildiği gibi çok kolay. Burada ise ulaşımı ikiye ayırmak 
 
 ### **Şehiriçi Ulaşım**
 
-{% include figure image_path="/assets/images/hamburg-metro-haritasi.png" caption="Hamburg Metro Haritasi" %}
+{% include figure image_path="/assets/images/hamburg-metro-haritasi.jpx" caption="Hamburg Metro Haritasi" %}
 
 Genellikle bisiklet ve metro üzerinden ulaşım sağlansa da otobüs, tramvay gibi hizmetler de çok yaygın. Metro, tramvay ile işe gidip gelemiyorsanız en hızlı yöntem kesinlikle bisiklet. Otobüsten ve bazı yerlerde arabadan daha hızlı ulaşım sağlandığı bir gerçek. Araç için de İstanbul’da olduğu gibi park sorunu birçok yerde mevcut. Şehiriçi ulaşım genel olarak aylık ulaşım kartları ile sağlanıyor. Ancak bizim gibi Türkiye ortamından gelenleri şaşırtacak bir durum var. Metrolarda, tramvaylarda turnike diye bir sistem yok. Elinizi kolunuzu sallayarak biniyor iniyorsunuz. Belirli aralıklarla araç içerisinde bilet kontrolü oluyor. Onun dışında Almanya, önce vatandaşına güven eğer seni aldatırsa cezasını kes yöntemini uyguluyor. Hatta otobüslerde bile arka kapıdan gönül rahatlığıyla binebiliyorsunuz. Tabi şöför sizi öne çağırmadığı sürece. Bilinmesi gereken tek bir konu var, o da bazı şehirlerde aldığınız günlük bileti kullanıma açmanız gerekiyor. Berlin, Münih gibi bazı şehirlerde bilet aldıktan sonra validasyon işlemini yapmanız gerekiyor. Bunu da bileti istasyonlarda bulunan küçük bir kutunun içine bileti sokarak yapıyorsunuz. Bunu yapmadığınız takdirde bilet almamış sayılıyorsunuz. Biletsiz yakalandığınızda cezası 60 EUR.
 
@@ -47,19 +47,19 @@ Metro, otobüs dışında araç kiralayabildiğiniz sistemler bulunmakta. [Drive
 
 Alman mutfağı genel olarak fazla yağlı yemeklerden oluşuyor. Biz Türklere yabancı geleceğini düşünmüyorum. Ancak aranızda domuz yemeyenler, sevmeyenler varsa Alman mutfağı pek size göre değil. Tabi ki sadece domuz kullanılmıyor. Diğer et türlerini de her yerde rahatlıkla bulabilirsiniz. Ayrıca her restoranda kesinlikle vejetaryen hatta çoğu zaman vegan tercihleri bile bulabiliyorsunuz. Son olarak her yemekte bira veya şarap olmazsa olmaz. Genç yaşlı demeden herkes yemeğin yanında bu ikisinden birini eksik etmiyor. Ara ara schnapps gördüğüm de oluyor (bunu henüz çözemedim).
 
-{% include figure image_path="/assets/images/alman-mutfagi-bira-sandvic-sosis.jpeg" caption="Alman mutfağının vazgeçilmezleri: Bira, sosis ve sandviç" %}
+{% include figure image_path="/assets/images/alman-mutfagi-bira-sandvic-sosis.jpx" caption="Alman mutfağının vazgeçilmezleri: Bira, sosis ve sandviç" %}
 
 Alman mutfağının dışında ise tabi ki Türk mutfağı güzel bir yer edinmiş. Yemekler her ne kadar Türkiye’deki gibi olmasa da yoklukta idare ediyorsunuz. Türkiye’den genel farklarından birisi ise dönerin içerisinde cacık (tzatziki), avokado gibi ekstra sosların konulması. Buna Alamancı döneri diyelim biz. Ayrıca Almanya’da lahmacundan uzak durmanızı tavsiye ederim. Henüz lezzetli yapanı bulamadık.
 
 Bu iki mutfağın dışında yaygınlık sırasına göre İtalyan, Hint, Amerikan, Çin mutfakları ve daha birçok farklı mutfak da rahatlıkla ulaşılabilir durumda. Son olarak Alman mutfağı en yaygın olarak bulunan mutfak değil. Almanya’da da diğer bütün ülkeler gibi halka mâl olmuş yemekleri barındıran cafe, bistrolar en yaygın olanları.
 
-{% include figure image_path="/assets/images/hamburg-sternschanze.jpeg" caption="Hamburg’da klasik bir Sternschanze akşamı" %}
+{% include figure image_path="/assets/images/hamburg-sternschanze.jpx" caption="Hamburg’da klasik bir Sternschanze akşamı" %}
 
 ## Sokak kuralları, Trafik
 
 Bir insanı en çok rahatlatan ya da strese sokan durumlar genelde sokakta olan şeylerdir. Yani evinizden dışarıya adım attığınızda şahit olduğunuz veya yaşadığınız olaylar günlük yaşamınızın kalitesini belirler. Yanınızdan geçen bir insan size küçük bir tebessümle yol verdiğinde içiniz ferahlarken, yol vermeyi bırakın omuzunuza vurarak geçen birisi ise adeta güne kötü ve gergin başlamanıza neden olur. Ne zaman Türkiye’ye gitsem sokaktaki geçirdiğim zaman hep gergin oluyor. Bu yüzden nereye gitmek istiyorsam bir an önce varmak istiyorum. Yani dışarıda zaman harcamak istemiyorum. Türkiye’de her gün karşılaşılan telaşı, yoğunluğu, saygısızlığı şöyle bir oturup düşünürseniz, söylemek istediğimi anlayacaksınızdır. İstanbul’da insanlar hep bir telaş içerisinde mutsuz ilerliyorken, Sivas’ta insanlar anlaşılamaz bir rahatlıkla yürümelerine rağmen yine mutsuzlar. Benim gözlemlediğim kadarıyla herkes farkında ki karşısından gelen insanın kimseye saygısı ve tahammülü yok, tıpkı kendisinin olmadığı gibi. Almanya’da ise durumlar biraz farklı. Evden dışarı adım attığımda mutlu oluyorum. Tabi ki insanlar sokaklarda beni çiçeklerle karşılamıyor. Ancak evimin sokağında gece saat 2’de yürürken bile yanımdan geçen ve tanımadığım bir çift gülümseyerek selam verince ister istemez huzur doluyorum. Bu her zaman olan bir şey olmasa da, gece saat 2’de insanlar yüzüme endişe, tedirginlik veya korkuyla bakmıyor. Bu yüzden Almanya’da yanınızdan geçen insana -özellikle yol alıp verme durumu varsa- kesinlikle bir tebessümü eksik etmeyin. Aslında bu yol alıp verme durumları genelde bisikletten dolayı oluyor. Sanırım hayatın bu içerisinde bisiklet bu kadar karışınca olaylar bu şekilde gelişmiş. Belirtmeden de geçmemek lazım; bisiklet yolları kaldırımla birleşik de olabilirken ayrı yol da olabiliyor. Her iki durumda da eğer bisiklet yoluna adım atıyorsanız, bisiklet yolunu kesinlikle kontrol edin.
 
-{% include figure image_path="/assets/images/alster-golu-kenari.jpeg" caption="Alster Gölü kenarı, Hamburg" %}
+{% include figure image_path="/assets/images/alster-golu-kenari.jpx" caption="Alster Gölü kenarı, Hamburg" %}
 
 Trafik konusunda en temel bilinmesi gereken birkaç şey var. Araçta, bisiklette ya da yaya olmanız bu temel durumları değiştirmiyor. Anayoldan ara yola (sağa ya da sola farketmez) dönüyorsanız, o ara yolda karşıdan karşıya geçen ve hatta geçmek üzere olan yaya ve bisikletliye yol vermek zorundasınız. Ara yoldan anayola çıkarken de durum aynısı, yani yol boş olsa bile önce ara yolda karşıdan karşıya geçenleri beklemeniz gerekiyor. Ayrıca yaya geçidindeyseniz veya ışıklarda yayaya yeşil yanıyorsa kesinlikle durmanız gerekiyor. Yaya iseniz de gönül rahatlığıyla yolunuzu -bisiklet dahil- araçlardan alabilirsiniz. Son olarak araçla ilerlerken dönüşlerde bisikletliler için mutlaka her iki yönünüzü de geriye doğru kontrol edin.
 
@@ -69,7 +69,7 @@ Almanca anadil olsa da Almanya’da İngilizce olarak düzenlenen birçok etkinl
 
 Her ne durumda olursa olsun sosyal hayata entegre olmak sanılandan daha zor. Ortak kültürü paylaşmadığınız ve belki de hiçbir bilgi sahibi olmadığınız bir toplumun içine girdiğinizde öğrenmeniz gereken ve hatta bazen hiç öğrenemeyeceğiniz sosyolojik ve kültürel farklılıklar mevcut. Bir Almanı ne kadar tanırsanız tanıyın, bir davranışını tahmin etmeniz yine de zor olacaktır.
 
-{% include figure image_path="/assets/images/hamburg-geburtstag.jpeg" caption="Hamburg Limanı 2017 Doğum Günü Etkinlikleri" %}
+{% include figure image_path="/assets/images/hamburg-geburtstag.jpx" caption="Hamburg Limanı 2017 Doğum Günü Etkinlikleri" %}
 
 Bizim Türkiye’deki yaşamımızda olduğu gibi Almanya’da yaşayan insanların günlük hayatlarının büyük bir kısmını parklarda geçirdiklerini söylemek yanlış olmaz sanırım. İnsanlar iş çıkışında bile direkt mangallarını alıp en yakınlarındaki mangal yakabilecekleri parklara koşuyorlar. Tabi ki her parkta mangal yakmak serbest değil. Mangal yakılamayanların boş kalacağını düşünmek ise doğal olarak doğru olmaz. Güneş yüzünü gösterdiği anda yiyeceğini içeceğini alan parka koşuyor! Etrafta bu kadar parkın olmasının sebebi; insanların bu kadar yönelmesi mi yoksa insanlar çok fazla tercih ettiği için mi bu kadar fazla park var bilinmez tabi ki. Biz Türkiye’de doğup büyümüş ancak son zamanlarda yeşilliğe genel olarak hasret bırakılmış nesil ise kendimizi bu parklara ve park kültürüne hayran olurken buluyoruz. Çünkü bu park hayatının getirdiği ekstra bir avantaj daha var. İnsanlar sporla çok içli dışlı yaşar hale gelmişler. Türkiye’de parklara o komik spor aletlerinin konulması bir şeyi değiştirmezken ve parklarda spor yapanı nadiren görebiliyorken, Almanya’da genel olarak o aletlerin olmamasına rağmen dışarda spor yapan çok fazla insanı rahatlıkla görebiliyorsunuz.
 

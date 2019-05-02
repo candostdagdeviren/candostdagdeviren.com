@@ -5,7 +5,7 @@ date: 2019-03-25
 categories: [Software Development, English]
 tags: [AWS, Terraform, Software Development, DevOps, Best Practices]
 header:
-  overlay_image: assets/images/fancycrave-371066-unsplash.jpg
+  overlay_image: assets/images/fancycrave-371066-unsplash.jpx
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
   caption: Photo by [Fancycrave](https://unsplash.com/photos/iWzC3nQXvAY) on [Unsplash](https://unsplash.com)

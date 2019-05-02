@@ -5,7 +5,7 @@ date: 2019-03-25
 categories: [Software Development, English]
 tags: [AWS, Terraform, Software Development, DevOps, Best Practices]
 header:
-  overlay_image: assets/images/alex-perez-612633-unsplash.jpg
+  overlay_image: assets/images/alex-perez-612633-unsplash.jpx
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
   caption: Photo by [Alex Perez](https://unsplash.com/photos/FS7UNiVGeWQ) on [Unsplash](https://unsplash.com)
@@ -48,7 +48,7 @@ Let’s split this equation into the parts and check one by one. *w* is called a
 
 There are two types of Linear Regression, simple (univariate) and multiple (multivariate). We’ll define the general rules and strategy of linear regression mainly under linear regression for simplicity now. Then, we’ll focus on the multiple linear regression based on the learnings in here. In simple linear regression, we have only one feature. We can think the price of the house is only dependent on the size of the house. So, we only care about one feature. This is why it’s called simple.
 
-![linear-regression]({{ site.baseurl }}/assets/images/linear-regression.png){: .align-center}
+![linear-regression]({{ site.baseurl }}/assets/images/linear-regression.jpx){: .align-center}
 
 The red dots in the graph above represents our data set. Let’s guess some parameters and bias and draw our linear line into our data set like above. This seems like a pretty good guess when you think the whole data. But we will have errors shown with gray vertical lines in the graph. Those errors are our cost of not being able to fit all the data. So, every approach will come with a cost and we’ll measure our prediction’s performance according to the cost.
 

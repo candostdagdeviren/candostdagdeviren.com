@@ -5,7 +5,7 @@ date: 2018-08-24
 categories: [Personal, English]
 tags: [Feedback, Lifestyle, Trust, Schools, Business]
 header:
-  image: assets/images/morgan-sessions-6255-unsplash.jpg
+  image: assets/images/morgan-sessions-6255-unsplash.jpx
   caption: Photo by [Morgan Sessions](https://unsplash.com/photos/YIN4xUBaqnk) on [Unsplash](https://unsplash.com)
 excerpt: "Feedback is defined as a reaction after a behavior or statement. But what does it really mean for us?"
 read_time: true
@@ -37,7 +37,7 @@ If we cannot build trust and be nice, it’s easy to seem like a person who is n
 
 Obviously, our face-to-face relationships are getting weaker every day. Hence, long relationships are getting harder. People tend to meet first online and become really good friends or a couple. But when they meet in face-to-face, they might not feel comfortable enough like they used to do while talking online. While the direct conversation is hard, how can we talk about feedbacks? Sometimes, we don’t need to **directly** say the feedback.
 
-![Friends - S06 E08]({{ site.baseUrl }}/assets/images/friends-s06-e08.jpeg){: .align-center}
+![Friends - S06 E08]({{ site.baseUrl }}/assets/images/friends-s06-e08.jpx){: .align-center}
 
 Understanding the feedback from feelings is a tough topic. I and my flat-mate had one simple rule, “Whenever you feel uncomfortable on something, say it.” This saved us from keeping the bad feelings inside and letting them grow. Now, he is one of my best friends and feedbacks are still the constant part of our friendship.
 

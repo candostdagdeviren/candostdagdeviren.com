@@ -5,7 +5,7 @@ date: 2018-08-24
 categories: [Personal, Turkish]
 tags: [Türkçe, Geri Bildirim, Hayat, Yaşam Tarzı, Güven, İş, Okul]
 header:
-  image: assets/images/morgan-sessions-6255-unsplash.jpg
+  image: assets/images/morgan-sessions-6255-unsplash.jpx
   caption: Photo by [Morgan Sessions](https://unsplash.com/photos/YIN4xUBaqnk) on [Unsplash](https://unsplash.com)
 excerpt: "Eleştiri TDK’ye göre 'Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi.' demek. Ancak bizim için nedir?"
 read_time: true
@@ -44,7 +44,7 @@ Eğer ki geri bildirim için uğraştığımız dönemde karşılıklı güven i
 
 Gün içindeki yüz yüze olan ilişkilerimiz maalesef her geçen gün zayıflamaya devam ediyor. Bu yüzden, uzun süren ilişkiler de git gide zorlaşıyor. İnsanlar ilk olarak internet üzerinden tanışmaya ve sonrasında iyi bir arkadaş veya çift olmaya daha meyilli hale geliyor. Ancak bir süre sonra yüz yüze görüşüldüğü zaman, internet üzerinden konuşulan rahatlığı hissetmek o kadar da kolay olmayabiliyor. Peki yüz yüze konuşmak bile zorken, bir de geri bildirim üzerine nasıl konuşabiliriz? Belki de bazen geri bildirimi **direkt olarak** söylemememiz gerekiyor. Ya da öyle mi olmalı?
 
-![Friends dizisi. 6. Sezon 8. Bölüm]({{ site.baseUrl }}/assets/images/friends-s06-e08.jpeg){: .align-center}
+![Friends dizisi. 6. Sezon 8. Bölüm]({{ site.baseUrl }}/assets/images/friends-s06-e08.jpx){: .align-center}
 
 Sadece hislerden bir geri bildirimi anlamak gerçekten çok zor bir konu. Bizim ev arkadaşımla aramızda (yazılı olarak) bir kuralımız vardı, “Seni rahatsız eden herhangi bir konu olduğu zaman direkt olarak söyle”. Bu kural içimizde karşılıklı kötü hislerin oluşmasını ve bazı hoşumuza gitmeyen davranışların büyümesini direkt olarak engelledi. Şimdi kendisi en iyi arkadaşlarımdan biri ve bu geri bildirimler hâlâ günlük arkadaşlığımızın bir parçası.
 
