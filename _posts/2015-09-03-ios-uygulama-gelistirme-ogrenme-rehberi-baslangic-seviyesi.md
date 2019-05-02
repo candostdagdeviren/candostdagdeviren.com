@@ -13,17 +13,17 @@ related: true
 
 Rehber olarak hazırladığım bu yazıda Objective-C ile iOS uygulama geliştirmeyi öğrenmek için internette var olan eğitici blog yazılarını hangi sıralamayla takip etmeniz gerektiğini göstermek istedim. Malum, internette tonlarca eğitim var ve insan genelde nereden başlayacağını bilemez.
 
-Swift yerine Objective-C’yi tercih ettim çünkü Objective-C şu anda daha stabil ve hala birçok yerde uygulama geliştirmede kullanılıyor.
+Swift yerine Objective-C'yi tercih ettim çünkü Objective-C şu anda daha stabil ve hala birçok yerde uygulama geliştirmede kullanılıyor.
 
-> NOT: Link olarak verilen blog yazıları İngilizce’dir. Daha fazla Türkçe içerik üretebilirsek umarım ileride bu yazının da tamamen Türkçe olan bir versiyonunu hazırlayabilirim.
+> NOT: Link olarak verilen blog yazıları İngilizce'dir. Daha fazla Türkçe içerik üretebilirsek umarım ileride bu yazının da tamamen Türkçe olan bir versiyonunu hazırlayabilirim.
 
-Aşağıdaki adımları sırayla takip ederseniz en iyi şekilde iOS geliştirmeyi ve Objective-C’yi temel seviyede kavrayacağınızı düşünüyorum (Temel programlama bilginizin olduğunu varsayıyorum).
+Aşağıdaki adımları sırayla takip ederseniz en iyi şekilde iOS geliştirmeyi ve Objective-C'yi temel seviyede kavrayacağınızı düşünüyorum (Temel programlama bilginizin olduğunu varsayıyorum).
 {: .text-center }
 
 - Öncelikle çalışma ortamımızı kuralım. [Bu yazıda](http://bit.ly/beginner-iOS-1) iOS programlamaya başlamak için nelere ihtiyacınız olduğu yazıyor.
 Ben okumak yerine video izlemeyi tercih ediyorum diyenler için alternatif link.
 - Bir iOS uygulamasının kod yapısının nasıl olduğunu anlamamız şu aşamada önemli. Kodun hangi bölümünün ne işe yaradığını öğrenmek için inceleyeceğimiz blog yazısı ise [burada](http://bit.ly/1KVpoeC).
-- Artık yavaş yavaş Objective-C’deki veri yapılarına geçelim. Veri yapılarından kastım sayılar (numbers), diziler (arrays), kümeler (sets), veri sözlükleri (dictionaries), dizgiler (strings), tarihler (dates) olarak sınıflandırabiliriz. Bu yapıları da [buradan](http://bit.ly/1JHvqOV) inceleyebilirsiniz.
+- Artık yavaş yavaş Objective-C'deki veri yapılarına geçelim. Veri yapılarından kastım sayılar (numbers), diziler (arrays), kümeler (sets), veri sözlükleri (dictionaries), dizgiler (strings), tarihler (dates) olarak sınıflandırabiliriz. Bu yapıları da [buradan](http://bit.ly/1JHvqOV) inceleyebilirsiniz.
 
 > Karşılaştırma ve döngü durumlarına geçmeden önce [buradan](http://bit.ly/1X7nQav) operatörlere göz atabilirsiniz.
 
@@ -32,10 +32,10 @@ Ben okumak yerine video izlemeyi tercih ediyorum diyenler için alternatif link.
 - Sırada metodlara (methods) [buradan](http://bit.ly/1hszagN) kısa ve güzel bir giriş yapalım. Sınıfları da öğrendikten sonra metodların sınıflarda nasıl kullanıldığını inceleyeceğiz.
 
 > Eğer Nesne Yönelimli Programlama (Object-Oriented Programming) konseptine hakimseniz yazının bu bölümünü atlayıp aşağıdaki maddeden devam edebilirsiniz. Eğer hakim değilseniz yazıya burdan devam etmenizi öneririm.
-> Öncelikle Nesne Yönelimli Programlamanın ne olduğunu öğrenmek için [Quora’da](https://www.quora.com/) denk geldiğim güzel bir sohbet var. Nesne yönelimli programlama konsepti ve mantığını kafanızda oturtana kadar [burada](http://bit.ly/1Kmnauu) verilen cevapları tek tek inceleyebilirsiniz.
+> Öncelikle Nesne Yönelimli Programlamanın ne olduğunu öğrenmek için [Quora'da](https://www.quora.com/) denk geldiğim güzel bir sohbet var. Nesne yönelimli programlama konsepti ve mantığını kafanızda oturtana kadar [burada](http://bit.ly/1Kmnauu) verilen cevapları tek tek inceleyebilirsiniz.
 > Bunun yerine video izlemek isterseniz [buradaki](http://bit.ly/1JuhHy8) videoyu izleyebilirsiniz.
 
-- Şimdi Objective-C tarafında Nesne Yönelimli Programlama’nın nasıl olduğuna dair kısma geçelim. Burada bulduğum geniş kapsamlı ilk örnek [burada](http://bit.ly/1KmnRnB) ama bu ilk bölümü. Biraz daha ileri gitmek isterseniz ikinci bölümünü de [buradan](http://bit.ly/1ic72is) okuyabilirsiniz.
+- Şimdi Objective-C tarafında Nesne Yönelimli Programlama'nın nasıl olduğuna dair kısma geçelim. Burada bulduğum geniş kapsamlı ilk örnek [burada](http://bit.ly/1KmnRnB) ama bu ilk bölümü. Biraz daha ileri gitmek isterseniz ikinci bölümünü de [buradan](http://bit.ly/1ic72is) okuyabilirsiniz.
 Video tercih edenler için bir alternatif [burada](http://bit.ly/1UfrmAU) var ama ben bu maddede bahsettiğim blog yazılarını mutlaka okumanızı tavsiye ederim.
 - Nesne yönelimli programlamanın temellerinin kavrandığını varsayarak sınıflar (classes) ile ilgili kısma geçelim. [Buradan](http://bit.ly/1VsYnXt) bir sınıfın baştan sona nasıl oluşturulduğunu ve kullanıldığını inceleyebilirsiniz.
 - Daha önceden bahsettiğim metodların sınıflar ile birlikte kullanımını [buradan](http://bit.ly/1KY6Qud) inceleyip farklı tarzdaki metodları da öğrenebilirsiniz.
@@ -45,4 +45,4 @@ Video tercih edenler için bir alternatif [burada](http://bit.ly/1UfrmAU) var am
 > Yazıda eksik veya hatalı olduğunu düşündüğünüz kısımlar ile ilgili benimle iletişime geçerseniz düzeltebilirim.
 {: .text-center }
 
-[Twitter](https://twitter.com/candostdagdevrn) ve [GitHub](https://github.com/candostdagdeviren) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter’da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.
+[Twitter](https://twitter.com/candostdagdevrn) ve [GitHub](https://github.com/candostdagdeviren) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.

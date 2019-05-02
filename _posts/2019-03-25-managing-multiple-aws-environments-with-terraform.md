@@ -17,12 +17,12 @@ share: true
 related: true
 ---
 
-Multiple environments like staging, production, development are standard in the software development community. When we combine this approach with AWS usage, we come across a problem where we have to define a user for each environment. We either create a new IAM user separately under the same organization or use multiple organizations. There are two other approaches which we shouldn’t do it at all, using an admin or creating one user for all.
+Multiple environments like staging, production, development are standard in the software development community. When we combine this approach with AWS usage, we come across a problem where we have to define a user for each environment. We either create a new IAM user separately under the same organization or use multiple organizations. There are two other approaches which we shouldn't do it at all, using an admin or creating one user for all.
 
-In my opinion, having one organization and using different users for different environments make more sense. In here, we’re going to take a look at how we are going to approach this process by using Terraform. Terraform is a tool for managing infrastructure. We can easily create, change and improve the infrastructure by code instead of using the AWS Console. AWS Console is incredible, simple and it’s perfect for smaller projects. It has all the features we need. The reason why we use Terraform is we want to see the infrastructure resources in our repository. So, everyone understands which tools we’re using from AWS by only looking to the code.
+In my opinion, having one organization and using different users for different environments make more sense. In here, we're going to take a look at how we are going to approach this process by using Terraform. Terraform is a tool for managing infrastructure. We can easily create, change and improve the infrastructure by code instead of using the AWS Console. AWS Console is incredible, simple and it's perfect for smaller projects. It has all the features we need. The reason why we use Terraform is we want to see the infrastructure resources in our repository. So, everyone understands which tools we're using from AWS by only looking to the code.
 
 > Using Identity and Access Management (IAM), you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.
-While IAM allows us to manage access to resources, Terraform has a Workspaces feature which is designed for our problem. Each workspace can be used as an environment in the project. We can add a new one, switch from one to another quickly. But how we’re going to use it? First, let’s take a look at how to create an IAM user without multiple environments/workspaces.
+While IAM allows us to manage access to resources, Terraform has a Workspaces feature which is designed for our problem. Each workspace can be used as an environment in the project. We can add a new one, switch from one to another quickly. But how we're going to use it? First, let's take a look at how to create an IAM user without multiple environments/workspaces.
 
 ## Creating Resources
 
@@ -44,7 +44,7 @@ resource "aws_iam_user" "candost" {
 }
 ```
 
-Lastly, we define a `aws_iam_user_policy` to attach necessary resource permissions to our brand new user. We give our user name in user property as `aws_iam_user.candost.name`. This will fetch the name we defined with `user` variable. We assume that we have defined a DynamoDB Table named _MyTable_. I’ll explain the setup of that table later.
+Lastly, we define a `aws_iam_user_policy` to attach necessary resource permissions to our brand new user. We give our user name in user property as `aws_iam_user.candost.name`. This will fetch the name we defined with `user` variable. We assume that we have defined a DynamoDB Table named _MyTable_. I'll explain the setup of that table later.
 
 ```
 resource "aws_iam_user_policy" "candost_policy" {
@@ -70,7 +70,7 @@ EOF
 
 ## Terraform Workspaces
 
-Now, let’s add the environment. Terraform gives access to current workspace with `${terraform.workspace}` variable. We’ll append this to our resources. Here is the final version with multiple environments.
+Now, let's add the environment. Terraform gives access to current workspace with `${terraform.workspace}` variable. We'll append this to our resources. Here is the final version with multiple environments.
 
 ```
 variable "iam_user" {
@@ -104,7 +104,7 @@ EOF
 }
 ```
 
-As we can see, we changed nothing except combining the user name and the Terraform workspace. But they still access the same table. We need to separate that table too. Let’s take a look at how we add a resource for the DynamoDB table. We create a *database.tf* file and put the following code in there.
+As we can see, we changed nothing except combining the user name and the Terraform workspace. But they still access the same table. We need to separate that table too. Let's take a look at how we add a resource for the DynamoDB table. We create a *database.tf* file and put the following code in there.
 
 ```
 resource "aws_dynamodb_table" "MyTable" {
@@ -120,7 +120,7 @@ resource "aws_dynamodb_table" "MyTable" {
 }
 ```
 
-Now, we have a table code which will work with multiple environments and it will help us to create different tables for different environments. **So, one code will generate multiple environments setup.** Let’s update our policy for the new DynamoDB table resource and finish up. Here is the final version:
+Now, we have a table code which will work with multiple environments and it will help us to create different tables for different environments. **So, one code will generate multiple environments setup.** Let's update our policy for the new DynamoDB table resource and finish up. Here is the final version:
 
 ```
 variable "iam_user" {

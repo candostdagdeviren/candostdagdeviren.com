@@ -25,7 +25,7 @@ Cevahir Sahnesi Salon 2'de izledim ben oyunu. A sırası 9 numaralı koltuk. İ�
 
 Savaşın hep bahsedilmeyen yüzü yani geride kalanlar tarafında geçiyor olay. Savaş sırasında ve özellikle sonrasında geride kalan kadınların yaşadığı en büyük zorluklardan birisini temel konu edinmiş. Yaşamak. Nasıl yaşanacağını veya yaşanmayacağını gözler önüne seriyor. Bu arada oyun ikinci dünya savaşı sonrasında geçiyor.
 
-İlk perdede göze ilk çarpan karakter aslında Lily karakteri. Ana karakter olmamasına rağmen oyunculukta iyi bir performans sergiliyor Side Balaban. Başrolde Enrica rolüyle Eylem Yıldız çıkıyor karşımıza ve ilk perdede üzerine tam oturmamış diyebileceğim karakteri canlandırıyor. Yine de etkili bir oyun sergiliyor. Komiser rolünde ise kendisiyle daha önceden Sivas’ta ortak çalışma içerisinde bulunduğum (tabi yanlış hatırlamıyorsam) Orkun Gülşen var. Daha önce benim de görev aldığım bir oratoryoda Atatürk seslendirmesi yapmıştı. Neyse, oyunculuğu gayet başarılı fakat burada yönetmene top atıp karakteri biraz daha etkili hale getirebilirdi demek istiyorum. Güzel karakter, başarılı performans fakat karakterin etkisi bence arttırılmalı.
+İlk perdede göze ilk çarpan karakter aslında Lily karakteri. Ana karakter olmamasına rağmen oyunculukta iyi bir performans sergiliyor Side Balaban. Başrolde Enrica rolüyle Eylem Yıldız çıkıyor karşımıza ve ilk perdede üzerine tam oturmamış diyebileceğim karakteri canlandırıyor. Yine de etkili bir oyun sergiliyor. Komiser rolünde ise kendisiyle daha önceden Sivas'ta ortak çalışma içerisinde bulunduğum (tabi yanlış hatırlamıyorsam) Orkun Gülşen var. Daha önce benim de görev aldığım bir oratoryoda Atatürk seslendirmesi yapmıştı. Neyse, oyunculuğu gayet başarılı fakat burada yönetmene top atıp karakteri biraz daha etkili hale getirebilirdi demek istiyorum. Güzel karakter, başarılı performans fakat karakterin etkisi bence arttırılmalı.
 
 ## İkinci Perde
 
@@ -41,4 +41,4 @@ Alkışlar, alkışlar, alkışlar…
 
 > Bence her oyun sonrasında sahneye yönetmen de çıkmalı. Sonuçta bu oyunun en büyük parçası o.
 
-[Twitter](https://twitter.com/candostdagdevrn) ve [GitHub](https://github.com/candostdagdeviren) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter’da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.
+[Twitter](https://twitter.com/candostdagdevrn) ve [GitHub](https://github.com/candostdagdeviren) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.
