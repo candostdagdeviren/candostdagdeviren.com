@@ -6,7 +6,8 @@ categories: [Turkish, Personal]
 tags: [Türkçe, Csikszentmihalyi, Akış, Zaman]
 excerpt: "Zaman ve zamanı değerlendirme üzerine düşünceler"
 header:
-  image: assets/images/aleks-dorohovich-wNBC_kuhFMQ-unsplash.jpx
+  overlay_filter: rgba(0, 0, 0, 0.44)
+  overlay_image: assets/images/aleks-dorohovich-wNBC_kuhFMQ-unsplash.jpx
   caption: Photo by [Aleks Dorohovich](https://unsplash.com/@aleksdorohovich) on [Unsplash](https://unsplash.com)
 read_time: true
 comments: true
