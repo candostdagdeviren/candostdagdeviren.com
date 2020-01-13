@@ -1,16 +1,16 @@
 ---
 layout: single
 title: "ML Path: Simple Linear Regression"
-date: 2019-03-25
-categories: [Software Development, English]
-tags: [AWS, Terraform, Software Development, DevOps, Best Practices]
+date: 2018-10-06
+categories: [Machine Learning, English]
+tags: [Machine Learning, Software Development, Linear Regression, Gradient]
 header:
   overlay_image: assets/images/alex-perez-612633-unsplash.jpx
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
   caption: Photo by [Alex Perez](https://unsplash.com/photos/FS7UNiVGeWQ) on [Unsplash](https://unsplash.com)
-excerpt: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
-meta: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
+excerpt: "Linear Regression is a basic statistical method which applies a linear function to data and predicts a scalar value. But why do we use it?"
+meta: "Linear Regression is a basic statistical method which applies a linear function to data and predicts a scalar value. But why do we use it?"
 read_time: true
 comments: true
 share: true
