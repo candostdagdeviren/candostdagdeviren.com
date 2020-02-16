@@ -6,7 +6,6 @@ categories: [Personal, Turkish, Translation]
 tags: [Türkçe, Web, Facebook, Google, Amazon, Küreselleşme,]
 excerpt: "Buz dağının görünen kısmında 2014 yılından beri hiçbir şey değişmese de bugünlerde internet trafiğinin %70'ten fazlasında Google ve Facebook'un direkt etkisi var."
 read_time: true
-comments: true
 share: true
 related: true
 ---

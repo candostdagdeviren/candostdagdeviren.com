@@ -10,7 +10,6 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
 read_time: true
-comments: true
 share: true
 related: true
 ---

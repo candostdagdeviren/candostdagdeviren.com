@@ -12,7 +12,6 @@ header:
 excerpt: "Linear Regression is a basic statistical method which applies a linear function to data and predicts a scalar value. But why do we use it?"
 meta: "Linear Regression is a basic statistical method which applies a linear function to data and predicts a scalar value. But why do we use it?"
 read_time: true
-comments: true
 share: true
 related: true
 toc: true

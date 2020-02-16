@@ -12,7 +12,6 @@ header:
 excerpt: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
 meta: "Multiple environments like staging, production are standard and when we use it with AWS, we face the problem of managing access to them."
 read_time: true
-comments: true
 share: true
 related: true
 ---

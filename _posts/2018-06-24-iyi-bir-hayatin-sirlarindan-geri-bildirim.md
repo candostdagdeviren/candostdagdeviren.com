@@ -9,7 +9,6 @@ header:
   caption: Photo by [Morgan Sessions](https://unsplash.com/photos/YIN4xUBaqnk) on [Unsplash](https://unsplash.com)
 excerpt: "Eleştiri TDK'ye göre 'Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi.' demek. Ancak bizim için nedir?"
 read_time: true
-comments: true
 share: true
 related: true
 ---

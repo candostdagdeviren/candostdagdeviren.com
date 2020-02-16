@@ -7,7 +7,6 @@ tags: [Machine Learning, English, Supervised Learning, Unsupervised Learning, Re
 header:
   image: /assets/images/machine-learning-part-1-introduction-cover.jpx
 read_time: true
-comments: true
 share: true
 related: true
 ---

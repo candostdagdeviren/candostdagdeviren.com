@@ -9,7 +9,6 @@ header:
   image: assets/images/stockholmde-3-gun-cover.jpx
   caption: Stortorget | Gamla Stan
 read_time: true
-comments: true
 share: true
 related: true
 ---

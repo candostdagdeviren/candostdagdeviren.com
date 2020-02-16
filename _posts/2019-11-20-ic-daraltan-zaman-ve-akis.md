@@ -10,7 +10,6 @@ header:
   overlay_image: assets/images/aleks-dorohovich-wNBC_kuhFMQ-unsplash.jpx
   caption: Photo by [Aleks Dorohovich](https://unsplash.com/@aleksdorohovich) on [Unsplash](https://unsplash.com)
 read_time: true
-comments: true
 share: true
 related: true
 ---

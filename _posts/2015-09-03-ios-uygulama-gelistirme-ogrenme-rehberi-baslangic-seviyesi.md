@@ -6,7 +6,6 @@ categories: [Turkish, Software Development]
 tags: [Türkçe, iOS, Objective-C, Software Development, Mobile App Development]
 excerpt: "ctive-C ile iOS uygulama geliştirmeyi öğrenmek için internette var olan eğitici blog yazılarını hangi sıralamayla takip etmeniz gerektiğini göstermek istedim."
 read_time: true
-comments: true
 share: true
 related: true
 ---

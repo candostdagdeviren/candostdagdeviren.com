@@ -10,7 +10,6 @@ header:
   caption: Photo by [rawpixel.com](https://unsplash.com/photos/cb7FM1RdBrs) on [Unsplash](https://unsplash.com)
 excerpt: "Colvin 'Kişinin seçebileceği ve geliştirebileceği beceri ve yetiler sonsuzdur.' diyor. Bu da büyük resme bakabilmek için benim aklıma Düşünce Haritası yöntemini getirdi."
 read_time: true
-comments: true
 share: true
 related: true
 nav: false

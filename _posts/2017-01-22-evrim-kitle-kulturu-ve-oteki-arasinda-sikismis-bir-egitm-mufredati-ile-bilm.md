@@ -9,7 +9,6 @@ header:
   overlay_image: assets/images/evrim-kitle-kulturu-ve-oteki-arasinda-sikismis-bir-egitm-mufredati-ile-bilm-cover.jpx
   overlay_filter: rgba(0, 0, 0, 0.44)
 read_time: true
-comments: true
 share: true
 related: true
 ---

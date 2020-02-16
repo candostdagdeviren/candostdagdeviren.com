@@ -8,7 +8,6 @@ excerpt: "Soru sormak, sorgulamak hayatımızın her ne kadar parçası olsa da 
 header:
   image: assets/images/sorgulamadan-kac-bahar-gecti-cover.jpx
 read_time: true
-comments: true
 share: true
 related: true
 ---

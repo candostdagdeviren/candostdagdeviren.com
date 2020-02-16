@@ -11,7 +11,6 @@ header:
   caption: Photo by Aman Bhargava on [Unsplash](https://unsplash.com)
 excerpt: "Çalışanları, verdiği haklarla sağlam bir şekilde zalim işverenlerden koruyan Almanya bu alanda örnek uygulamalara sahip. Peki Almanya'da çalışan hakları nelerdir?"
 read_time: true
-comments: true
 share: true
 related: true
 toc: true

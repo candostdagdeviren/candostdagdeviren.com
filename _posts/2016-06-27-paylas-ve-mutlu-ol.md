@@ -7,7 +7,6 @@ tags: [Türkçe, Paylaş, Life, Life Lessons, Humanity, Share]
 header:
   image: assets/images/paylas-ve-mutlu-ol-cover.jpx
 read_time: true
-comments: true
 share: true
 related: true
 ---

@@ -11,7 +11,6 @@ header:
   caption: Photo by [Amanda Mocci](https://unsplash.com/photos/ttUzKi1xdZk) on [Unsplash](https://unsplash.com)
 excerpt: "Küreselleşmenin bütün aşamalarını adım adım yaşayan yüksek eğitim almış nesil, ülkesinde arayıp bulamadığını başka yerlerde bulma umuduyla göç ediyor. Peki bu nesil dönecek mi?"
 read_time: true
-comments: true
 share: true
 related: true
 ---

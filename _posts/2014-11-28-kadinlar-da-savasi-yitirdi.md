@@ -8,7 +8,6 @@ excerpt: "İstanbul Devlet Tiyatrosu gururla sunar. *Yönetmen: Galip Erdal*"
 header:
   overlay_image: assets/images/kadinlar-da-savasi-yitirdi.jpx
 read_time: true
-comments: true
 share: true
 related: true
 ---
