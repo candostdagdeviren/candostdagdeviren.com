@@ -8,8 +8,6 @@ main:
   - title: "Türkçe(🇹🇷)"
     url: /categories/Turkish
     description: All posts written in Turkish
-    - title: Personal
-      url: /tags/Personal
   - title: "English(🇬🇧)"
     url: /categories/English
     description: All posts written in English
