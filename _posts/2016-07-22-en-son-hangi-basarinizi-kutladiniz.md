@@ -25,5 +25,5 @@ Size başlıkta sorduğum ise hala geçerli. **Bir düşünün en son ne zaman?*
 Şimdi müsadenizle arkama yaslanıp elimde ayranımla müzik eşliğinde yeni işimi kutlamak istiyorum.
 
 ----
-Düşünmeye başladınız mı? O zaman aşağıdaki bu yazıyı paylaşarak başkalarını da teşvik edebilirsiniz!
+Düşünmeye başladınız mı? O zaman bu yazıyı paylaşarak başkalarını da teşvik edebilirsiniz!
 {: .notice--success }
