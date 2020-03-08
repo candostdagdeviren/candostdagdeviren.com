@@ -15,7 +15,7 @@ share: true
 related: true
 ---
 
-[This post is also available in Turkish 🇹🇷](/iyi-bir-hayatin-sirlarindan-geri-bildirim){: .btn .btn--primary .btn--small}
+[This post is also available in Turkish 🇹🇷](/iyi-bir-hayatin-sirlarindan-geri-bildirim){: .notice--info}
 
 Feedback is defined as a reaction after a behavior or statement. It's mostly confused with criticism. Criticism is defined as the analysis and judgment of the merits and faults. It's easily recognizable that criticism is based on the analysis and feedback is based on reaction. Although both feedback and criticism have positive and negative examples, it would be wrong to put them in the same position.
 

@@ -15,7 +15,7 @@ share: true
 related: true
 ---
 
-[This post is also available in English 🇺🇸](/one-of-the-secrets-of-a-good-life-feedback){: .btn .btn--primary .btn--small}
+[This post is also available in English 🇺🇸](/one-of-the-secrets-of-a-good-life-feedback){: .notice--info}
 
 Geri bildirim veya geri besleme, ikili ilişkilerde bir davranış veya söz sonrasında gelen tepki, TDK'ye göre ise “Gönderilen bilgi veya talimatın alıcıda yaptığı etkiye ilişkin edinilen bilgi” anlamına geliyor. Geri bildirim, eleştiri ile çok karıştırılır. Eleştiri ise TDK'ye göre “Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi.” anlamına geliyor. Yani fark edileceği üzere, eleştiri direkt olarak incelemeye dayalıyken geri bildirim ise tepkiye dayalı bir kavram. Her ikisinin de olumlu ve olumsuz örnekleri olmasına rağmen ikisini aynı kefeye koymak maalesef doğru olmaz.
 

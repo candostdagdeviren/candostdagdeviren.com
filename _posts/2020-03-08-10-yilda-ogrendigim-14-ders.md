@@ -16,7 +16,7 @@ related: true
 
 ---
 
-[This post is also available in English 🇺🇸](/14-lessons-I-learned-in-10-years){: .btn .btn--primary .btn--small}
+[This post is also available in English 🇺🇸](/14-lessons-I-learned-in-10-years){: .notice--info}
 
 Kodlamaya başlayalı neredeyse 10 yıl oldu. Bu süreçte her zaman [öğrenme eğrisinin](https://www.researchgate.net/figure/The-learning-curve-With-the-introduction-and-implementation-of-a-new-technique-high_fig2_237994914) dik ivmeli kısmında kalmaya çalıştım. Geriye dönüp baktığımda fark ettim ki teknik kısımları öğrenmek, diğer bütün kısımları öğrenmekten daha kolaymış. Bunu anlayınca da hatalarımdan çıkardığım dersleri yazmak istedim. Bunların bazıları hayat dersi seviyesinde olsa da tamamı yazılım geliştirmeyle direkt olarak ilgili.
 
