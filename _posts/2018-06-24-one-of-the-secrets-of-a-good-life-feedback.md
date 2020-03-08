@@ -2,16 +2,20 @@
 layout: single
 title: "One of the secrets of a good life: Feedback"
 date: 2018-08-24
+last_modified_at: 2020-03-08
 categories: [Personal, English]
 tags: [Feedback, Lifestyle, Trust, Schools, Business]
 header:
-  image: assets/images/morgan-sessions-6255-unsplash.jpx
+  overlay_filter: rgba(0, 0, 0, 0.44)
+  overlay_image: assets/images/morgan-sessions-6255-unsplash.jpx
   caption: Photo by [Morgan Sessions](https://unsplash.com/photos/YIN4xUBaqnk) on [Unsplash](https://unsplash.com)
 excerpt: "Feedback is defined as a reaction after a behavior or statement. But what does it really mean for us?"
 read_time: true
 share: true
 related: true
 ---
+
+[This post is also available in Turkish 🇹🇷](/iyi-bir-hayatin-sirlarindan-geri-bildirim){: .btn .btn--primary .btn--small}
 
 Feedback is defined as a reaction after a behavior or statement. It's mostly confused with criticism. Criticism is defined as the analysis and judgment of the merits and faults. It's easily recognizable that criticism is based on the analysis and feedback is based on reaction. Although both feedback and criticism have positive and negative examples, it would be wrong to put them in the same position.
 

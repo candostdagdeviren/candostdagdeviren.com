@@ -18,7 +18,8 @@ en: &DEFAULT_EN
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
-  date_label                 : "Updated:"
+  created_date_label         : "Publish Date:"
+  updated_date_label         : "Last Update Date:"
   comments_label             : "Leave a comment"
   comments_title             : "Comments"
   more_label                 : "Learn more"
@@ -71,7 +72,8 @@ tr: &DEFAULT_TR
   meta_label                 :
   tags_label                 : "Etiketler:"
   categories_label           : "Kategoriler:"
-  date_label                 : "Güncelleme tarihi:"
+  created_date_label         : "Yayınlanma Tarihi:"
+  updated_date_label         : "Son Güncelleme Tarihi:"
   comments_label             : "Yorum yapın"
   comments_title             : "Yorumlar"
   more_label                 : "Daha fazlasını öğrenin"
@@ -115,7 +117,8 @@ de: &DEFAULT_DE
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Kategorien:"
-  date_label                 : "Aktualisiert:"
+  created_date_label         : "Erscheinungsdatum:"
+  updated_date_label         : "Datum der letzten Aktualisierung:"
   comments_label             : "Hinterlassen Sie einen Kommentar"
   comments_title             : "Kommentare"
   more_label                 : "Mehr anzeigen"

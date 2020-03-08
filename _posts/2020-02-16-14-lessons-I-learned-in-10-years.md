@@ -2,6 +2,7 @@
 layout: single
 title: "14 Lessons I Learned in 10 Years"
 date: 2020-02-16
+last_modified_at: 2020-03-08
 categories: [English, Personal]
 tags: [Lessons, Life, Business, Software]
 excerpt: "Technical skills are easy, yet soft ones are harder. I learned a lot of lessons from my failures, experiences, and successes. Here is my shortlist."
@@ -13,6 +14,8 @@ read_time: true
 share: true
 related: true
 ---
+
+[This post is also available in Turkish 🇹🇷](/10-yilda-ogrendigim-14-ders){: .btn .btn--primary .btn--small}
 
 It's been ten years since I started coding. I've always wanted to stay in the steep acceleration part of the [learning curve](https://www.researchgate.net/figure/The-learning-curve-With-the-introduction-and-implementation-of-a-new-technique-high_fig2_237994914). When I look back, I recognized that learning the technical part was simpler than all the other things. After the realization, I wanted to write the lessons I learned from my mistakes. Some of them are life-lessons, but all of them apply to the software development world.
 

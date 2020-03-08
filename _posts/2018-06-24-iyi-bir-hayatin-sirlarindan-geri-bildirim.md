@@ -2,16 +2,20 @@
 layout: single
 title: "İyi Bir Hayatın Sırlarından: Geri Bildirim"
 date: 2018-08-24
+last_modified_at: 2020-03-08
 categories: [Personal, Turkish]
 tags: [Türkçe, Geri Bildirim, Hayat, Yaşam Tarzı, Güven, İş, Okul]
 header:
-  image: assets/images/morgan-sessions-6255-unsplash.jpx
+  overlay_filter: rgba(0, 0, 0, 0.44)
+  overlay_image: assets/images/morgan-sessions-6255-unsplash.jpx
   caption: Photo by [Morgan Sessions](https://unsplash.com/photos/YIN4xUBaqnk) on [Unsplash](https://unsplash.com)
 excerpt: "Eleştiri TDK'ye göre 'Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi.' demek. Ancak bizim için nedir?"
 read_time: true
 share: true
 related: true
 ---
+
+[This post is also available in English 🇺🇸](/one-of-the-secrets-of-a-good-life-feedback){: .btn .btn--primary .btn--small}
 
 Geri bildirim veya geri besleme, ikili ilişkilerde bir davranış veya söz sonrasında gelen tepki, TDK'ye göre ise “Gönderilen bilgi veya talimatın alıcıda yaptığı etkiye ilişkin edinilen bilgi” anlamına geliyor. Geri bildirim, eleştiri ile çok karıştırılır. Eleştiri ise TDK'ye göre “Bir insanı, bir eseri, bir konuyu doğru ve yanlış yanlarını bulup göstermek amacıyla inceleme işi.” anlamına geliyor. Yani fark edileceği üzere, eleştiri direkt olarak incelemeye dayalıyken geri bildirim ise tepkiye dayalı bir kavram. Her ikisinin de olumlu ve olumsuz örnekleri olmasına rağmen ikisini aynı kefeye koymak maalesef doğru olmaz.
 
