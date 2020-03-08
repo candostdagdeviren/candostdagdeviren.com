@@ -56,7 +56,7 @@ While sharing wisdom, be humble, and do it for other people's good. Don't brag. 
 
 ## 10. Don't assume, always ask and confirm
 
-People are different. They come from different backgrounds, cultures, and families. Everyone has a different communication characteristic. Don't pretend to look like you understand them. Emphasize.
+People are different. They come from different backgrounds, cultures, and families. Everyone has a different communication characteristic. Don't pretend to look like you understand them. Develop empathy.
 Don't assume on behalf of other people. Assuming is one of the mistakes everyone does. When you assume, you are never sure. Always ask your colleagues what they mean. Afterward, repeat what you heard to them. It is the best tactic and works like magic. Every small miscommunication will disappear.
 
 ## 11. Always go with the truth even if you're alone, and the road is full of pain and fear
