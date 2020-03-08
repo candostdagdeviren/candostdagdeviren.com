@@ -8,7 +8,7 @@ main:
   - title: "Türkçe(🇹🇷)"
     url: /categories/Turkish
     description: All posts written in Turkish
-  - title: "English(🇬🇧)"
+  - title: "English(🇺🇸)"
     url: /categories/English
     description: All posts written in English
   - title: "Software Development"
