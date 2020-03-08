@@ -12,9 +12,10 @@ header:
 read_time: true
 share: true
 related: true
+
 ---
 
-Kodlamaya başlayalı neredeyse 10 yıl oldu. Bu süreçte her zaman [öğrenme eğrisinin] dik ivmeli kısmında kalmaya çalıştım. Geriye dönüp baktığımda fark ettim ki teknik kısımları öğrenmek, diğer bütün kısımları öğrenmekten daha kolaymış. Bunu anlayınca da hatalarımdan çıkardığım dersleri yazmak istedim. Bunların bazıları hayat dersi seviyesinde olsa da tamamı yazılım geliştirmeyle direkt olarak ilgili.
+Kodlamaya başlayalı neredeyse 10 yıl oldu. Bu süreçte her zaman [öğrenme eğrisinin](https://www.researchgate.net/figure/The-learning-curve-With-the-introduction-and-implementation-of-a-new-technique-high_fig2_237994914) dik ivmeli kısmında kalmaya çalıştım. Geriye dönüp baktığımda fark ettim ki teknik kısımları öğrenmek, diğer bütün kısımları öğrenmekten daha kolaymış. Bunu anlayınca da hatalarımdan çıkardığım dersleri yazmak istedim. Bunların bazıları hayat dersi seviyesinde olsa da tamamı yazılım geliştirmeyle direkt olarak ilgili.
 
 ## 1. İşyerindeki En Değerli Şey: Takım
 
@@ -29,7 +30,7 @@ Takım arkadaşlarınızla sorun yaşadığınızda, onları anlamaya çalışma
 
 İdeal diye bir şey yoktur. Ne geliştiriyorsanız geliştirin, bu sistemde ikilemler olacaktır. Her yaklaşımı analiz etmeli ve feragat edebileceklerinizi doğru seçmelisiniz. Ancak bütün seçenekleri göz önünde bulundurmadan asla devam etmemelisiniz. Feragat edeceğiniz veya tercih edeceğiniz seçenekleri doğru anlamanız şart.
 
-## 4. [Problemi sevin, çözümü değil]
+## 4. [Problemi sevin, çözümü değil](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b)
 
 Çözüme odaklanıp, onu çok sevdiğimizde, genelde bu çözümü uygun olmayan problemlerde de kullanmaya çalışıyoruz. Her problemin çözümünün farklı olduğunu unutmamalı ve çözüm yerine problemi sevmelisiniz. Bu şekilde zihninizi farklı çözüm yollarına da açık tutmuş olursunuz.
 
@@ -41,7 +42,7 @@ Yaptığınız bir şeyin hata olduğunu gösteren bir bulgu olmadığı sürece
 
 Eleştirinizde insana odaklandığınızda bir savunmayla karşılaşırsınız. Bunun sonucu olarak da eleştiriniz istediğiniz hedefe asla varamaz. Bunun yerine yapılan işe odaklanın. Düşünceleri kişiden soyutlaştırın ve onları yapılan işe, davranışa, duruma yani kişilikten uzak noktalara yönlendirin. Örneğin “Bu işi neden böyle yaptın?” yerine “Bu iş neden böyle oldu?” şeklinde sorun.
 
-## 7. [Savaşını akıllıca seç]
+## 7. [Savaşını akıllıca seç](https://idioms.thefreedictionary.com/choose+your+battles)
 
 Bütün savaşları kazanmak neredeyse imkansız. Fedakarlıkta bulunmanın şart olduğu yerlerle sürekli karşılaşıyorsunuzdur. Eğer her şeye karşı savaşırsanız, savaşlarla zaman geçirip, yapmak istediğinize asla ulaşamazsınız. Bu yüzden, en önemli olduğunu bildiğiniz veya başarı şansınızın yüksek olduğu savaşları seçmeli, onlara odaklanmalısınız.
 
