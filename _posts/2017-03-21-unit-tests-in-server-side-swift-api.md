@@ -182,4 +182,4 @@ You can run the API executable in your local with command `docker run -p 8090:80
 
 Here we go. Finally, we have working Swift Server API. I tried to explain all steps I did. I spent a lot of time to make this app testable. I didn't know that folder structure and naming really matters for running tests with Swift. If you had some troubles that I didn't mention here, please add them as comments.
 
-If you liked it, you can use social buttons to share this with your friends. If you want to be updated about new blog posts, you can subscribe to my our list. You can follow me on [Twitter @candosten](https://twitter.com/CandostEN) and [GitHub](https://github.com/candostdagdeviren/).
+If you liked it, you can use social buttons to share this with your friends. You can follow me on [Twitter @candosten](https://twitter.com/CandostEN) and [GitHub](https://github.com/candostdagdeviren/).
