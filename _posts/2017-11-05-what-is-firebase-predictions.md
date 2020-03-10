@@ -7,7 +7,7 @@ tags: [A/B Testing, Android, Cloud Messaging, Firebase, Firebase Predictions, ho
 header:
   overlay_filter: rgba(0, 0, 0, 0.44)
   overlay_image: assets/images/what-is-firebase-predictions/cover.png
-excerpt: We use some tools and also some do customizations on them to increase our productivity. Every tech stack has different needs, thus, a different set of tools.
+excerpt: Google announced Firebase Predictions in Firebase Dev Summit in Amsterdam this year.
 read_time: true
 share: true
 related: true
