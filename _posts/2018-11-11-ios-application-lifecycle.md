@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "NS for iOS Devs - Application Lifecycle"
+title: "Application Lifecycle in iOS"
 date: 2018-11-11
 categories: [Swift, English, Software Development]
 tags: [Apple, Application Lifecycle, Best Practices, Development, iOS, NS for iOS Devs, Software, Software Architecture, Software Development, swift]
