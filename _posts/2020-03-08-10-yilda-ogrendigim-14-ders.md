@@ -8,7 +8,7 @@ tags: [Lessons, Life, Business, Software]
 excerpt: "Başarısızlıklarımdan, deneyimlerimden ve başarılarımdan son on yilda çok şey öğrendim. İşte benim kısa listem."
 header:
   overlay_filter: rgba(0, 0, 0, 0.44)
-  overlay_image: assets/images/jon-tyson-SPBY7XiHNO0-unsplash.jpx
+  overlay_image: assets/images/14-lessons-I-learned-in-10-years/cover.jpx
   caption: Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com)
 read_time: true
 share: true

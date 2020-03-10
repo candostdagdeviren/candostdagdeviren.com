@@ -8,7 +8,7 @@ tags: [Lessons, Life, Business, Software]
 excerpt: "Technical skills are easy, yet soft ones are harder. I learned a lot of lessons from my failures, experiences, and successes. Here is my shortlist."
 header:
   overlay_filter: rgba(0, 0, 0, 0.44)
-  overlay_image: assets/images/jon-tyson-SPBY7XiHNO0-unsplash.jpx
+  overlay_image: assets/images/14-lessons-I-learned-in-10-years/cover.jpx
   caption: Photo by [Jon Tyson](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com)
 read_time: true
 share: true

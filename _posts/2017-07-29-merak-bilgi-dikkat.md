@@ -6,7 +6,7 @@ categories: [Personal, Turkish]
 tags: [Türkçe, Merak, Curiosity, Attention, Experience, Dikkat, Bilgi]
 excerpt: "Merak, günümüzde her ne kadar bilgiye giden yolda ışık tutuyor olsa da dikkatimizi yolda tutmakta çok fazla zorlanıyoruz. Dört bir yandan bize saldıran ve dikkatimizi çekmeye çalışan kuvvet sayısı her geçen gün artıyor."
 header:
-  overlay_image: assets/images/merak-bilgi-dikkat-cover.jpx
+  overlay_image: assets/images/merak-bilgi-dikkat/cover.jpx
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
 read_time: true
@@ -18,7 +18,7 @@ Merak, günümüzde her ne kadar bilgiye giden yolda ışık tutuyor olsa da dik
 
 İnternet toplumunun gelişmesi ve doğru yönde ilerlemesi aslında uzun zamandır bütün dünyanın bir problemi. Tek bir şahıs, devlet, organizasyon tarafından kontrol edilmesi imkansız olan bu toplumun gelişmesi tamamen bireylere bağlı. Ütopik gibi görünse de, bütün her şey aslında bireysel bazdaki gelişimlerle yönetilebilir hale geliyor. Üzerine çok fazla gizli planlar yapılmış gibi davranılan internet toplumu aslında demokratik bir toplum. Kısaca çoğunluğun ilgisi nerede birleşiyorsa para da oradan sağlanıyor ve oraya aktarılıyor. Yani bireylerin ilgisini yönlendirebildiğiniz konularda başarılı olamamanız işten bile değil.
 
-{% include figure image_path="/assets/images/merak-bilgi-dikkat-1.jpx" %}{: .align-center}
+{% include figure image_path="/assets/images/merak-bilgi-dikkat/1.jpx" %}{: .align-center}
 
 ## Toplumun yapı taşı; bireysel davranışlar
 

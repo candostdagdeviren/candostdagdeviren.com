@@ -5,7 +5,7 @@ date: 2018-08-18
 categories: [Personal, Turkish]
 tags: [Türkçe, Vefa, Türkiye, Ülke, Vefa Borcu, Göç, Küreselleşme]
 header:
-  overlay_image: assets/images/amanda-mocci-24747-unsplash.jpx
+  overlay_image: assets/images/vefa-borcu/cover.jpx
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
   caption: Photo by [Amanda Mocci](https://unsplash.com/photos/ttUzKi1xdZk) on [Unsplash](https://unsplash.com)

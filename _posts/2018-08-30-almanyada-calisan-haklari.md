@@ -5,7 +5,7 @@ date: 2018-08-30
 categories: [Personal, Turkish]
 tags: [Germany, Türkçe, Social, Work, Work Life Balance, Social Rights, Work Rights]
 header:
-  overlay_image: assets/images/aman-bhargava-unsplash.jpx
+  overlay_image: assets/images/almanyada-calisan-haklari/cover.jpx
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
   caption: Photo by Aman Bhargava on [Unsplash](https://unsplash.com)

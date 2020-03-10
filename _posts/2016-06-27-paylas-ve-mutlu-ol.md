@@ -5,7 +5,7 @@ date: 2016-06-27
 categories: [Turkish, Personal]
 tags: [Türkçe, Paylaş, Life, Life Lessons, Humanity, Share]
 header:
-  image: assets/images/paylas-ve-mutlu-ol-cover.jpx
+  image: assets/images/paylas-ve-mutlu-ol/cover.jpx
 read_time: true
 share: true
 related: true

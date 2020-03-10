@@ -7,7 +7,7 @@ tags: [Türkçe, Dil]
 excerpt: "Kaliteli bir içerik üretip sunmak çok zor. Bütün bunların üzerine bir de dil konusu gelince, her şey daha da karışıyor."
 header:
   overlay_filter: rgba(0, 0, 0, 0.44)
-  overlay_image: assets/images/soner-eker-jhtPCeQ2mMU-unsplash.jpx
+  overlay_image: assets/images/icerik-uretmede-dil-karmasasi/cover.jpx
   caption: Photo by [Soner Eker](https://unsplash.com/@sonereker) on [Unsplash](https://unsplash.com)
 read_time: true
 share: true

@@ -6,7 +6,7 @@ categories: [Turkish, Personal]
 tags: [Türkçe, Success, Başarı]
 excerpt: "veya en son ne zaman bir şey başardığınızı farkettiniz?"
 header:
-  image: assets/images/en-son-hangi-basarinizi-kutladiniz-cover.jpx
+  image: assets/images/en-son-hangi-basarinizi-kutladiniz/cover.jpx
 read_time: true
 share: true
 related: true

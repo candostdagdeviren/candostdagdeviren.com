@@ -5,7 +5,7 @@ date: 2017-11-09
 categories: [Machine Learning, English]
 tags: [Machine Learning, English, Supervised Learning, Unsupervised Learning, Reinforcement Learning]
 header:
-  image: /assets/images/machine-learning-part-1-introduction-cover.jpx
+  image: /assets/images/machine-learning-part-1-introduction/cover.jpx
 read_time: true
 share: true
 related: true

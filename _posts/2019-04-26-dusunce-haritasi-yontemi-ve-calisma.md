@@ -5,7 +5,7 @@ date: 2018-04-26
 categories: [Personal, Turkish]
 tags: [Türkçe, Düşünce Haritası, Geoff Colvin, Yöntem, Düşünce]
 header:
-  overlay_image: assets/images/dusunce-haritasi-yontemi-ve-calisma.jpx
+  overlay_image: assets/images/dusunce-haritasi-yontemi-ve-calisma/cover.jpx
   show_overlay_excerpt: false
   caption: Photo by [rawpixel.com](https://unsplash.com/photos/cb7FM1RdBrs) on [Unsplash](https://unsplash.com)
 excerpt: "Colvin 'Kişinin seçebileceği ve geliştirebileceği beceri ve yetiler sonsuzdur.' diyor. Bu da büyük resme bakabilmek için benim aklıma Düşünce Haritası yöntemini getirdi."
