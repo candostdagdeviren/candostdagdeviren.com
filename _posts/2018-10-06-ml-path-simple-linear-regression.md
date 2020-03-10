@@ -5,7 +5,8 @@ date: 2018-10-06
 categories: [Machine Learning, English]
 tags: [Machine Learning, Software Development, Linear Regression, Gradient]
 header:
-  overlay_image: assets/images/alex-perez-612633-unsplash.jpx
+  overlay_image: assets/images/ml-path-simple-linear-regression/cover.jpx
+
   overlay_filter: rgba(0, 0, 0, 0.44)
   show_overlay_excerpt: false
   caption: Photo by [Alex Perez](https://unsplash.com/photos/FS7UNiVGeWQ) on [Unsplash](https://unsplash.com)
