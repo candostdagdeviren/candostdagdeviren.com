@@ -16,7 +16,7 @@ related: true
 
 Apple’s Swift is becoming more and more popular amongst the developer community. Most of us already started adapting our projects to this folk. While adopting, we may not be as careful as we should be as Swift is a very flexible language and it’s really easy to misuse it. Especially coming from an Objective-C culture, applying best practices becomes really important.
 
-After reading [Swifty Tips from Göksel](https://theswiftpost.co/swifty-tips/), I realized a couple of his tips can be checked automatically with [**SwiftLint**](http://bit.ly/2pszEcm). Also, we’re lazy people and we tend to forget to check our code before merging to master. Just in here, **[Danger](http://bit.ly/2pJ2DLY)** comes to the stage with shiny clothes and points out we’re doing something dangerous.
+After reading [Swifty Tips from Göksel](https://medium.com/nsistanbul/swifty-tips-%EF%B8%8F-8564553ba3ec), I realized a couple of his tips can be checked automatically with [**SwiftLint**](http://bit.ly/2pszEcm). Also, we’re lazy people and we tend to forget to check our code before merging to master. Just in here, **[Danger](http://bit.ly/2pJ2DLY)** comes to the stage with shiny clothes and points out we’re doing something dangerous.
 
 {:refdef: style="text-align: center;"}
 ![using-swiftlint-and-danger-for-swift-best-practices-1]({{ site.baseurl }}/assets/images/using-swiftlint-and-danger-for-swift-best-practices/1.gif)

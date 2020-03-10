@@ -279,6 +279,6 @@ SwiftBackend
 After all coding, it was time to build the API and send a request via Postman. I got success after some trials. (Note: Be careful about connection properties and escaping closures). Of course, there are a lot of things to improve in code. But all these codes were intended to create a working backend API developed with Swift.
 
 ----
-[In the next post](https://theswiftpost.co/unit-tests-in-server-side-swift-api/), I made this project testable and Dockerized. There are some points to be careful while making it testable.
+[In the next post](/unit-tests-in-server-side-swift-api), I made this project testable and Dockerized. There are some points to be careful while making it testable.
 
 As a final step, I’ll try to upload to cloud. But my first impression was really good. I should say that I convinced to work on the backend side in Swift. It’s pretty easy. I’m working with SublimeText instead of Xcode. Thus, I can understand each line I wrote without auto-completion. If you’re working with Swift, you should definitely try to create some backend APIs with Swift.

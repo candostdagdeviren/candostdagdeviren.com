@@ -58,9 +58,6 @@ author:
   location         : "Germany"
   email            :
   links:
-    - label: "Swift Post"
-      icon: "fas fa-fw fa-link"
-      url: "https://theswiftpost.co"
     - label: "Twitter (🇹🇷)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/candostdagdevrn"
@@ -80,9 +77,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Swift Post"
-      icon: "fas fa-fw fa-link"
-      url: "https://theswiftpost.co"
     - label: "Twitter (🇹🇷)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/candostdagdevrn"
