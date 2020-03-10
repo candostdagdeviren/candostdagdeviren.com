@@ -1,10 +1,5 @@
 # main links
 main:
-  - title: "Home"
-    url: /
-    description: Recent Posts
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Türkçe(🇹🇷)"
     url: /categories/Turkish
     description: All posts written in Turkish
@@ -14,5 +9,3 @@ main:
   - title: "Software Development"
     url: /categories/software-development
     description: All posts related to Software Development
-  # - title: "Sitemap"
-  #   url: /sitemap/
