@@ -7,7 +7,7 @@ tags: [Apple, backend, couchdb, heliumlogger, kitura, kitura-couchdb, server sid
 header:
   overlay_filter: rgba(0, 0, 0, 0.44)
   overlay_image: assets/images/unit-tests-in-server-side-swift-api/cover.jpx
-  caption: Cover Photo by [Tim Easley](https://unsplash.com/photos/9eOMleOBWmY) on [Unsplash](https://unsplash.com/)
+  caption: Photo by [Tim Easley](https://unsplash.com/photos/9eOMleOBWmY) on [Unsplash](https://unsplash.com/)
 excerpt: I’ve shared my first experiences about backend development in Swift [in my previous blog post](/new-horizons-with-server-side-swift). This is the follow-up post. I'll talk about Unit Tests in Swift.
 read_time: true
 share: true
