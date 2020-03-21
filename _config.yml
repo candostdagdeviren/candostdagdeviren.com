@@ -54,14 +54,14 @@ analytics:
 author:
   name             : "Candost Dagdeviren"
   avatar           : "/assets/images/avatar/candost.jpx"
-  bio              : "Curious (Cr.) Software Engineer. Writes about software engineering, tech and science"
+  bio              : "Curious (Cr.) Software Engineer. Writes about software engineering, tech, science, cultural differences and their effect on people."
   location         : "Germany"
   email            :
   links:
     - label: "Twitter (🇹🇷)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/candostdagdevrn"
-    - label: "Twitter (🇺🇸)"
+    - label: "Tweets about Tech (🇺🇸)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/candostEn"
     - label: "GitHub"
@@ -70,7 +70,7 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/candost"
-    - label: "#BugünÖğrendimKi (🇹🇷)"
+    - label: "#BugünÖğrendimKi (TIL in 🇹🇷)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/search?q=%23Bug%C3%BCn%C3%96%C4%9FrendimKi%20from%3Acandostdagdevrn"
 
@@ -80,7 +80,7 @@ footer:
     - label: "Twitter (🇹🇷)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/candostdagdevrn"
-    - label: "Twitter (🇺🇸)"
+    - label: "Tweets about Tech (🇺🇸)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/candostEn"
     - label: "GitHub"

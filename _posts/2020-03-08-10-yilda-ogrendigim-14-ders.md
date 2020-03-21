@@ -20,7 +20,7 @@ related: true
 
 Kodlamaya başlayalı neredeyse 10 yıl oldu. Bu süreçte her zaman [öğrenme eğrisinin](https://www.researchgate.net/figure/The-learning-curve-With-the-introduction-and-implementation-of-a-new-technique-high_fig2_237994914) dik ivmeli kısmında kalmaya çalıştım. Geriye dönüp baktığımda fark ettim ki teknik kısımları öğrenmek, diğer bütün kısımları öğrenmekten daha kolaymış. Bunu anlayınca da hatalarımdan çıkardığım dersleri yazmak istedim. Bunların bazıları hayat dersi seviyesinde olsa da tamamı yazılım geliştirmeyle direkt olarak ilgili.
 
-## 1. İşyerindeki En Değerli Şey: Takım
+## 1. [İşyerindeki En Değerli Şey: Takım](/is-yerindeki-en-degerli-sey-takim)
 
 Üniversiteden başlayıp da şirketlerde geliştirilen projelere kadar, takım kavramı yaptığımız işin en önemli kısmı. Ben bu on senede kötü takım organizasyonundan dolayı birçok projenin başarısız olduğunu, ertelendiğini veya geciktiğini gördüm. Takım içerisinde etkileşim iyi olduğunda teknik kısımlar da tıkır tıkır ilerliyor. Temiz iletişim takıma açıklık ve anlaşılabilirlik katıyor.
 
