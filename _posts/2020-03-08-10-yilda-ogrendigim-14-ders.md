@@ -5,7 +5,7 @@ date: 2020-03-08
 last_modified_at: 2020-03-08
 categories: [Turkish, Personal]
 tags: [Lessons, Life, Business, Software]
-excerpt: "Başarısızlıklarımdan, deneyimlerimden ve başarılarımdan son on yilda çok şey öğrendim. İşte benim kısa listem."
+excerpt: "Başarısızlıklarımdan, deneyimlerimden ve başarılarımdan son on yılda çok şey öğrendim. İşte benim kısa listem."
 header:
   overlay_filter: rgba(0, 0, 0, 0.44)
   overlay_image: assets/images/14-lessons-I-learned-in-10-years/cover.jpx
