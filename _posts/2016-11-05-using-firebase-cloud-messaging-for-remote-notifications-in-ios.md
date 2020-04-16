@@ -2,6 +2,7 @@
 layout: single
 title: "Using Firebase Cloud Messaging for Remote Notifications in iOS"
 date: 2016-11-05
+last_modified_at: 2020-04-16
 categories: [Tools, English]
 tags: [APNS, Apple, automate, Firebase, how to, iOS, Software, Software Development, swift, swift-3, swift3]
 header:
@@ -135,7 +136,3 @@ cp -v "${RESOURCE_PATH}/"* "${BUILD_APP_DIR}/"
 This script takes the located config files (GoogleService-Info.plist) according to app build configuration. And duplicates it to the build app directory before compiling sources. Then, Firebase will identify .plist file as identical like there is only one file. You can configure script and copy only .plist files. Logic is the same.
 
 This is it. Easy setup, easy configuration. Possibilities of using FCM with other features of Firebase gives a lot more advantages. Maybe this will be the subject of other posts.
-
-Thanks for reading! Help spread the word ❤️🚀.
-
-Do you have questions, suggestions, comments or ideas for upcoming blog posts contact me on [Twitter @candosten](http://bit.ly/2oWdga9) or write a comment!😍 You can also follow me on [GitHub](http://bit.ly/1S1gP9z).

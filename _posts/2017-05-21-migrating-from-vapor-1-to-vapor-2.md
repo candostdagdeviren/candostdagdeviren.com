@@ -2,6 +2,7 @@
 layout: single
 title: "Migrating from Vapor 1 to Vapor 2"
 date: 2017-05-21
+last_modified_at: 2020-04-16
 categories: [Server-Side-Swift, Software Development, English]
 tags: [Apple, Development, how to, server side, server side swift, Software, Software Development, swift, swift-3, swift3, vapor]
 header:
@@ -322,8 +323,6 @@ servers.json file is simplified and renamed to server.json. Basic server.json ca
 ## Last words
 
 Adoption to the latest versions with breaking changes is generally hard. But when it comes to performance, clean code and other new features, walking around with the old version become redundant. Some people declare this as living on the edge. Although I agree with this on some level, I generally try to use latest versions when they came out. But I always give it a try with some trial projects, not directly on production code.
-
-Thanks for reading! Help spread the word ❤️🚀. Do you have questions, suggestions, comments or ideas for upcoming blog posts? Contact me on [Twitter @candosten](http://bit.ly/2oWdga9) or write a comment! 😍 You can also follow me on [GitHub](http://bit.ly/1S1gP9z).
 
 ----
 Further:

@@ -2,6 +2,7 @@
 layout: single
 title: "🇸🇪 Stockholm'de 3 gün 🇸🇪"
 date: 2016-10-22
+last_modified_at: 2020-04-16
 categories: [Turkish, Travel]
 tags: [Türkçe, Evrim, Evolution, Education, Eğitim]
 excerpt: "Her zaman gitmek istediğim şehirlerden biri olan Stockholm'e ucuz bilet bulunca üç günlük bir gezi düzenledim. Başta üç gün uzun mu olur diye düşünmedim değil. Ancak yaptığım plana göre şehir tam üç günlüktü."
@@ -90,5 +91,3 @@ Sanırım en büyük sorunlardan birisi bu. Çünkü süpermarket bulmanız çok
 Stockholm pahalı bir şehir. Müzelerden tutun, restoranlara ve hatta marketlere kadar hepsi Avrupa fiyatlarının çok üzerinde. Marketlere toplamda 25 EUR, kahve, kahvaltı ve yemeklere 65 EUR, müzelere 83,50 EUR, kalacak yere 110 EUR ve uçak biletine de (Ankara-Stockholm ve Stockholm-Hamburg) 111 EUR harcadım. Böylece tek kişi için toplamda aşağı yukarı 400 EUR harcamayla 3 gece 4 günlük bir geziyi tamamlamış oldum.
 
 Son olarak da gezdiğim yerlere TripAdvisor üzerinde yazdığım yorumları [buradan](https://www.tripadvisor.com/members-citypage/candostd/g189852) görebilirsiniz.
-
-*Okuduğunuz için teşekkürler. [Twitter](http://bit.ly/1qxjddC) ve [GitHub](http://bit.ly/1S1gP9z) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.*

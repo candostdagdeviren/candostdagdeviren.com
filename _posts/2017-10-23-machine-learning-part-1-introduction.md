@@ -2,6 +2,7 @@
 layout: single
 title: "Machine Learning, Part 1: Introduction"
 date: 2017-11-09
+last_modified_at: 2020-04-16
 categories: [Machine Learning, English]
 tags: [Machine Learning, English, Supervised Learning, Unsupervised Learning, Reinforcement Learning]
 header:
@@ -51,7 +52,3 @@ After the introduction of machine learning, I would like to continue with diving
 * [Machine Learning Mastery](https://machinelearningmastery.com)
 
 * [YouTube-sentdex](https://www.youtube.com/user/sentdex/)
-
-Thanks for reading️! Help spread the word. ❤️🚀
-
-Have questions, suggestions, comments or ideas for upcoming blog posts? Contact me on [Twitter](http://bit.ly/2oWdga9) or write a comment!😍 You can also follow me on [GitHub](http://bit.ly/1S1gP9z).

@@ -2,6 +2,7 @@
 layout: single
 title: "Almanya'da günlük yaşamın merak edilenleri"
 date: 2017-09-10
+last_modified_at: 2020-04-16
 categories: [Personal, Turkish]
 tags: [Germany, Türkçe, Social, Work Life Balance, Life, Daily Life]
 header:
@@ -81,5 +82,3 @@ Bu konuya çok uzun değinmek istemiyorum. İnternette alışveriş hangi şehir
 Alışverişle ilgili tekstil gibi diğer alanlara değinirsek de Almanya'da yerel mağazalar, uluslar arası mağaza zincirlerinden genel olarak daha pahalı. Ben genel olarak yiyecek içecek dışındaki alışverişlerim için [Amazon](http://www.amazon.de)'u tercih ediyorum. [Prime](https://www.amazon.com/Amazon-Prime-One-Year-Membership/dp/B00DBYBNEE) üyelikle bir gün içerisinde teslim ediyorlar ürünleri. Ayrıca şehirden şehire değişmekle birlikte Türkiye'deki gibi uzun çalışma saatleri yok. Mesela Hamburg'da akşam 7–8 gibi kapanıyor hepsi. Süpermarketler de genelde 9'da kapanıyor.
 
 Genel olarak insanların burada yaşamadan öğrenemeyecekleri şeylerin bu başlıklara yönelik olduğunu düşünüyorum. Tabi bunların dışında vize, eş durumu, maddi durumlar gibi uzayıp giden çok başka konular daha var. Bunları da deneyimledikçe ve öğrendikçe paylaşmayı planlıyorum. Her ne kadar Almanya'da yaşamak keyif verici görünse de kişisel zorlukları öngörmek ve ona göre karar vermek en doğrusu olacaktır.
-
-*Okuduğunuz için teşekkürler. [Twitter](http://bit.ly/1qxjddC) ve [GitHub](http://bit.ly/1S1gP9z) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.*

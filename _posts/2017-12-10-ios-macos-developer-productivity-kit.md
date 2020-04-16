@@ -2,6 +2,7 @@
 layout: single
 title: "iOS/macOS Developer Productivity Kit"
 date: 2017-12-10
+last_modified_at: 2020-04-16
 categories: [Tools, Software Development, English]
 tags: [Apple, Best Practices, danger, Development, iOS, MVVM, productivity, Software, Software Development, swift, swiftlint]
 excerpt: "We use some tools and also some do customizations on them to increase our productivity. Every tech stack has different needs, thus, a different set of tools."
@@ -97,5 +98,3 @@ Time is the most important thing in our lives. Increase your productivity. Work 
 - Ctrl - ⌃
 - Enter - ⏎
 
-----
-Thanks for reading! Help spread the word.❤️🚀 Have questions, suggestions, comments? Write a comment! 😍

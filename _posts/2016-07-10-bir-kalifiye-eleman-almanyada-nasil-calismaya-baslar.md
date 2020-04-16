@@ -2,6 +2,7 @@
 layout: single
 title: "Bir kalifiye eleman Almanya'da nasıl çalışmaya başlar?"
 date: 2016-07-10
+last_modified_at: 2020-04-16
 categories: [Turkish, Personal]
 tags: [Germany, Türkçe, Social, Work, Beginning, Hiring]
 excerpt: "Kalifiye eleman söylemini ne kadar sevmesem de, bu yazıda üniversite mezunu ve/veya Almanya tarafından kalifiye eleman olarak değerlendirilebilecek insanların Almanya'da çalışmaya başlarken karşılaşacakları süreçlerde neler yapmaları gerektiğini anlattım."
@@ -94,4 +95,3 @@ Baştan uyarayım, Türkiye'deki bankacılık sektörünün hizmet kalitesini bu
 [Peki Almanya'da günlük hayatın nasıl ilerliyor?](/almanyada-gunluk-yasamin-merak-edilenleri)
 {: .notice--success .text-center }
 
-*Okuduğunuz için teşekkürler. [Twitter](http://bit.ly/1qxjddC) ve [GitHub](http://bit.ly/1S1gP9z) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.*

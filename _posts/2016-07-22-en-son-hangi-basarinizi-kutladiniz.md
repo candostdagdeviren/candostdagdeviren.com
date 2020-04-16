@@ -2,6 +2,7 @@
 layout: single
 title: "En son hangi başarınızı kutladınız?"
 date: 2016-07-22
+last_modified_at: 2020-04-16
 categories: [Turkish, Personal]
 tags: [Türkçe, Success, Başarı]
 excerpt: "veya en son ne zaman bir şey başardığınızı farkettiniz?"
@@ -23,7 +24,3 @@ Son zamanlarda geriye dönüp baktığımda şunu farkettim; ne yaptıysam, ne b
 Size başlıkta sorduğum ise hala geçerli. **Bir düşünün en son ne zaman?**
 
 Şimdi müsadenizle arkama yaslanıp elimde ayranımla müzik eşliğinde yeni işimi kutlamak istiyorum.
-
-----
-Düşünmeye başladınız mı? O zaman bu yazıyı paylaşarak başkalarını da teşvik edebilirsiniz!
-{: .notice--success }

@@ -2,6 +2,7 @@
 layout: single
 title: "Vapor 2 — What to do after 'Hello World' Example"
 date: 2017-07-09
+last_modified_at: 2020-04-16
 categories: [Server-Side-Swift, Software Development, English]
 tags: [server side, server side swift, Software, Software Development, swift, swift-3, vapor, vapor-2]
 excerpt: When Apple announced Server APIs and working group, it made me think to switch to Swift for server-side development.
@@ -293,10 +294,6 @@ This configuration approach brings a lot of advantages. If you are an iOS develo
 ## Conclusion
 
 Until now, we have covered database setup, the logic of the app, routing, middleware and application configuration. We should be ready for deploying our app for production. Remaining things are set up a database on the cloud and deploying our application to cloud. Currently, we're using mLab in Kaucuk as a Mongo database and Heroku for deploying our application. You can benefit from [this post](https://medium.com/@xcadaverx/full-stack-swift-deploying-a-vapor-app-4a190bc0a8d) for setting up mLab and Heroku for your backend API.
-
-Thanks for reading! Share to help spread the word.❤️
-
-Do you have questions, suggestions, comments or ideas for upcoming blog posts, contact me on [Twitter @candosten](http://bit.ly/2oWdga9) or write a comment! 😍 You can also follow me on [GitHub](http://bit.ly/1S1gP9z).
 
 ----
 

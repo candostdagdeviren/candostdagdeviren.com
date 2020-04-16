@@ -2,6 +2,7 @@
 layout: single
 title: "Bir sektörel profesyonel için Almanya'da iş arama ve mülakat süreçleri"
 date: 2016-10-06
+last_modified_at: 2020-04-16
 categories: [Turkish, Travel]
 tags: [Germany, Türkçe, Social, Work, Social Rights, Job Search]
 excerpt: "Almanya'da nasıl iş bulabilirim ve süreçler nasıl oluyor sorularının cevapları"
@@ -104,8 +105,6 @@ Peki Almanya'da günlük yaşam nasıl?
 
 [Almanya'da günlük yaşamın merak edilenleri](/almanyada-gunluk-yasamin-merak-edilenleri)
 {: .notice--success .text-center }
-
-*Okuduğunuz için teşekkürler. [Twitter](http://bit.ly/1qxjddC) ve [GitHub](http://bit.ly/1S1gP9z) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi ve eleştirilerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.*
 
 Yazının hazırlanmasında yardımlarını esirgemeyen [Sabrican Ozan](https://medium.com/@sabrican_ozan)'a bol bol teşekkürler.
 {: .notice }

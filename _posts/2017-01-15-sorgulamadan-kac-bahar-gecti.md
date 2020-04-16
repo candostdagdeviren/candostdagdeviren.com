@@ -2,6 +2,7 @@
 layout: single
 title: "Sorgulamadan kaç bahar geçti?"
 date: 2017-01-15
+last_modified_at: 2020-04-16
 categories: [Personal, Turkish]
 tags: [Türkçe, Skeptiszm, Sorgulamak, Skeptic, Skepticism]
 excerpt: "Soru sormak, sorgulamak hayatımızın her ne kadar parçası olsa da çoğu zaman arka plana attığımız bir şey."
@@ -25,5 +26,3 @@ Genel olarak güvenebileceğiniz kaynaklar ise birçok bilim adamı tarafından 
 Hazır [Yalansavar](https://yalansavar.org/)'a değinmişken onlardan da bahsedelim. Ben, okuduğum her haberi, gördüğüm her tweet'i sorgulamaya çalışırken bu alanda da kendimi geliştirmek için yeni yöntemler araştırıyorum. Bu araştırma sırasında karşıma ilk çıkan da aslında Yalansavar oldu. Kendi tanımlarıyla Yalansavar, eleştirel düşünce ve bilim tutkunlarının bir araya gelerek oluşturduğu gönüllü bir platform. Amaçları, sağlıklı bir toplum için elzem olan eleştirel düşünce alışkanlığını yaymaya katkıda bulunmak ve muhtelif asılsız iddiaları irdelemek. 11 kişiden oluşan bu ekip podcast'ler ve blog yazıları ile size bu alanda ilk ışığı tutacak insanlar diyebiliriz. Oradan sonra kendi yolunuzu bulmaya başlayabilirsiniz.
 
 Sorgulayarak, araştırarak ve tek bir düşüncenin daimi bir taraftarı olmayarak geçireceğimiz günler bizden adım adım uzaklaşırken siz bir şeyleri sorguladığınız zaman çok garip ve saçma tartışmaların içerisinde kendinizi bulabilirsiniz. Özellikle günümüzde güncel politik olayların sorgulanmasına taraflar sıcak bakmıyorlar. Ben 15 Temmuz darbesinin detaylarını sorgulamaya çalıştığım zaman kendimi iki gün süren bir tartışmanın içerisinde buldum. Sonuca bile ulaşma amacımın olmadığı konuşma neyse ki hakaret seviyesine gelmeden kapandı. Demem o ki, kuşkuculuğa, sorgulamaya başladığınız zaman kendinizi hazırlayın. Her zaman hoş karşılanmayacaksınız. Hatta bazen siz sadece sorgulayalım dediğinizde bile kimse yanaşmayacak, dinlemeyecek. Ancak unutmamak gerekir ki, bir ortamı aydınlatmak için küçük bir lamba hatta bir mum yeterlidir. Umarım o mum olmak için atacağınız her adım sizi tam aydınlığa ve doğru bilgiye bir adım daha yaklaştırır.
-
-*Okuduğunuz için teşekkürler. [Twitter](http://bit.ly/1qxjddC) ve [GitHub](http://bit.ly/1S1gP9z) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.*

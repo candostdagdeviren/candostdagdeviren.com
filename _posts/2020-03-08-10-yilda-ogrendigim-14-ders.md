@@ -2,7 +2,7 @@
 layout: single
 title: "10 Yılda Öğrendiğim 14 Ders"
 date: 2020-03-08
-last_modified_at: 2020-03-08
+last_modified_at: 2020-04-16
 categories: [Turkish, Personal]
 tags: [Lessons, Life, Business, Software]
 excerpt: "Başarısızlıklarımdan, deneyimlerimden ve başarılarımdan son on yılda çok şey öğrendim. İşte benim kısa listem."
@@ -82,4 +82,4 @@ Kibar gibi görünmeyin, gerçekten kibar olun. Dallama olmayın.
 
 ---
 
-Siz son 2-5-10 yılda ne öğrendiniz? Aşağıdaki yorum bölümünde veya [Twitter'da @candostdagdevrn](https://twitter.com/candostdagdevrn) kullanıcı adımdan benimle paylaşabilirsiniz.
+Siz son 2-5-10 yılda ne öğrendiniz?

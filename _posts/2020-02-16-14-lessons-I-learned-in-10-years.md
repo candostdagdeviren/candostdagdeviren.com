@@ -2,7 +2,7 @@
 layout: single
 title: "14 Lessons I Learned in 10 Years"
 date: 2020-02-16
-last_modified_at: 2020-03-08
+last_modified_at: 2020-04-16
 categories: [English, Personal]
 tags: [Lessons, Life, Business, Software]
 excerpt: "Technical skills are easy, yet soft ones are harder. I learned a lot of lessons from my failures, experiences, and successes. Here is my shortlist."
@@ -82,4 +82,4 @@ Don't pretend, be a nice person. Don't be a jerk.
 
 ---
 
-What you've learned during the last 2-5-10 years? Let me know either in the comment section below or [Twitter @candostEN](https://twitter.com/candosten).
+What you've learned during the last 2-5-10 years?

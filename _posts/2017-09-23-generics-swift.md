@@ -2,6 +2,7 @@
 layout: single
 title: "Generics in Swift 4"
 date: 2017-09-23
+last_modified_at: 2020-04-16
 categories: [Swift, English, Software Development]
 tags: [Apple, Best Practices, Development, generics, iOS, Software, Software Architecture, Software Development, swift, swift-4]
 header:
@@ -261,5 +262,3 @@ In Swift 4, subscripts can be generic and we can use generic where clauses. In o
 ## Final Words
 
 We made our restaurant fully functional. Our manager and The Council seems to be happy. As we can see from our journey, generics are really powerful. We can satisfy extensive requirements with ease using generics, once we get the concept. Generics are widely used in the Swift standard library. For instance, [Array](https://developer.apple.com/documentation/swift/array) and [Dictionary](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/CollectionTypes.html#//apple_ref/doc/uid/TP40014097-CH8-ID113) types are both generic collections. If you want to learn more and dive deep, you can always take a look at these classes and how they are implemented. [Swift Language Doc](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Generics.html) also provides an extensive explanation for generics. Lastly, Swift language has [Generic Manifesto](https://github.com/apple/swift/blob/master/docs/GenericsManifesto.md) which explains the features and future direction of generics. I suggest you take a look all documents to understand current usages and future plans.
-
-Thanks for reading! Help spread the word.❤️ Have questions, suggestions, comments or ideas for upcoming blog posts? Contact me on [Twitter @candosten](http://bit.ly/2oWdga9) or write a comment! You can also follow me on [GitHub](http://bit.ly/1S1gP9z).

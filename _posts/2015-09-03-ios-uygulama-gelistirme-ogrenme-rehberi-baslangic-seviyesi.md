@@ -2,6 +2,7 @@
 layout: single
 title: "iOS Uygulama Geliştirme Öğrenme Rehberi — Başlangıç Seviyesi"
 date: 2015-09-03
+last_modified_at: 2020-04-16
 categories: [Turkish, Software Development]
 tags: [Türkçe, iOS, Objective-C, Software Development, Mobile App Development]
 excerpt: "ctive-C ile iOS uygulama geliştirmeyi öğrenmek için internette var olan eğitici blog yazılarını hangi sıralamayla takip etmeniz gerektiğini göstermek istedim."
@@ -41,7 +42,3 @@ Video tercih edenler için bir alternatif [burada](http://bit.ly/1UfrmAU) var am
 
 Şu anda **başlangıç seviyesinde** Objective-C bilgisine sahipsiniz. En kısa zamanda orta düzey ve ileri düzey için de yazıları tamamlayacağım.
 
-> Yazıda eksik veya hatalı olduğunu düşündüğünüz kısımlar ile ilgili benimle iletişime geçerseniz düzeltebilirim.
-{: .text-center }
-
-[Twitter](https://twitter.com/candostdagdevrn) ve [GitHub](https://github.com/candostdagdeviren) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.

@@ -2,6 +2,7 @@
 layout: single
 title: "Web 2014 yılından sonra ölmeye başladı. Nasıl mı?"
 date: 2017-11-09
+last_modified_at: 2020-04-16
 categories: [Personal, Turkish, Translation]
 tags: [Türkçe, Web, Facebook, Google, Amazon, Küreselleşme,]
 excerpt: "Buz dağının görünen kısmında 2014 yılından beri hiçbir şey değişmese de bugünlerde internet trafiğinin %70'ten fazlasında Google ve Facebook'un direkt etkisi var."
@@ -113,5 +114,3 @@ Peki Trinet'in de en çok önemsediği yapay zekanın kullanımının yaygınla�
 
 > *[André Staltz](https://staltz.com/) tarafından hazırlanan ve kişisel web sitesinde yayınlanan THE WEB BEGAN DYING IN 2014, HERE'S HOW adlı yazının Türkçe çevirisidir. Bu makale [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) ile lisanslandırılmıştır. Orijinaline [buradan](https://staltz.com/the-web-began-dying-in-2014-heres-how.html) ulaşabilirsiniz.*
 > *This article is the Turkish translation of the article titled THE WEB BEGAN DYING IN 2014, HERE'S HOW written by [André Staltz](https://staltz.com/) on his personal website. The article is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You can access the original from [here](https://staltz.com/the-web-began-dying-in-2014-heres-how.html).*
-
-*Okuduğunuz için teşekkürler. [Twitter](http://bit.ly/1qxjddC) üzerinden de beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.*

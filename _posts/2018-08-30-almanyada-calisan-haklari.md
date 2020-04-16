@@ -2,6 +2,7 @@
 layout: single
 title: "Almanya'da Çalışan Hakları"
 date: 2018-08-30
+last_modified_at: 2020-04-16
 categories: [Personal, Turkish]
 tags: [Germany, Türkçe, Social, Work, Work Life Balance, Social Rights, Work Rights]
 header:
@@ -96,5 +97,3 @@ Doğum izni boyunca anne veya baba normalde aldığı maaşın %67'sini almaya d
 * İşe ilk başlarken taşınma yardımı
 * İşe ilk başlarken kalacak yer yardımı
 * Uzun süreli bisiklet kiralama yardımı (leasing)
-
-[Twitter](https://twitter.com/candostdagdevrn) ve [GitHub](https://github.com/candostdagdeviren) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.

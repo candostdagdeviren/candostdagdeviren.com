@@ -2,6 +2,7 @@
 layout: single
 title: "Using SwiftLint and Danger for Swift Best Practices"
 date: 2017-04-30
+last_modified_at: 2020-04-16
 categories: [Tools, Swift, Software Development, English]
 tags: [Apple, automate, danger, Development, how to, lint, Software, Software Development, swift, swift-3, swift3, swiftlint]
 header:
@@ -156,7 +157,3 @@ Let Danger and SwiftLint handle the trivial stuff for you. From now on, you can 
 {:refdef: style="text-align: center;"}
 ![using-swiftlint-and-danger-for-swift-best-practices-5]({{ site.baseurl }}/assets/images/using-swiftlint-and-danger-for-swift-best-practices/5.gif)
 {: refdef}
-
-Thanks for reading! Help spread the word. ❤️
-
-Do you have questions, suggestions, comments or ideas for upcoming blog posts? Contact me on [Twitter @candosten](http://bit.ly/2oWdga9) or write a comment! 😍 You can also follow me on [GitHub](http://bit.ly/1S1gP9z).

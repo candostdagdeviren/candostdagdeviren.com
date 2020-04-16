@@ -2,6 +2,7 @@
 layout: single
 title: "Kadınlar da Savaşı Yitirdi"
 date: 2014-11-28
+last_modified_at: 2020-04-16
 categories: [Turkish, Travel]
 tags: [Türkçe, Evrim, Evolution, Education, Eğitim]
 excerpt: "İstanbul Devlet Tiyatrosu gururla sunar. *Yönetmen: Galip Erdal*"
@@ -39,5 +40,3 @@ Sanırım ikinci yarının daha duygusal olduğunu söylemek doğru olur. Bu duy
 Alkışlar, alkışlar, alkışlar…
 
 > Bence her oyun sonrasında sahneye yönetmen de çıkmalı. Sonuçta bu oyunun en büyük parçası o.
-
-[Twitter](https://twitter.com/candostdagdevrn) ve [GitHub](https://github.com/candostdagdeviren) üzerinden beni takip edebilirsiniz. Yorumlarınızı, düşüncelerinizi Twitter'da ve/veya burada yorumlarda bekliyorum. Görüşmek üzere.

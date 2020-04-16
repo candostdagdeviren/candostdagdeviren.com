@@ -2,6 +2,7 @@
 layout: single
 title: "What is Firebase Predictions?"
 date: 2017-12-10
+last_modified_at: 2020-04-16
 categories: [Tools, Software Development, English]
 tags: [A/B Testing, Android, Cloud Messaging, Firebase, Firebase Predictions, how to, iOS, Machine Learning, Push Notifications, Remote Config, Software, Software Development]
 header:
@@ -115,7 +116,3 @@ You can adjust other settings of notifications in the console. One thing to ment
 ## Final Words
 
 Machine learning algorithms are in use for decades but interest is drastically increased in the last years. The hard part of applying machine learning algorithms to businesses arises from the complexity and collecting data. Even if every business collects data from users, they are not able to use machine learning algorithms to predict future actions of their users. Introduction of Firebase Predictions seems like a solution to this problem. Google Analytics is already a leader in analytics world and Google Analytics for Firebase is becoming a standard in the mobile world. Google takes a big step to help all businesses by applying machine learning algorithms on big chunks of precious analytics data. We’ll see together how it’s going to achieve its goal.
-
-----------
-
-Thanks for reading! Help spread the word.❤️🚀 Have questions, suggestions, comments? Contact me on [Twitter @candosten](https://twitter.com/candosten) or write a comment!😍 You can also follow me on [GitHub](http://bit.ly/1S1gP9z).
