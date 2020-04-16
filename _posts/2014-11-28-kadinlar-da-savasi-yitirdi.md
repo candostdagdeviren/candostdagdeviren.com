@@ -3,7 +3,7 @@ layout: single
 title: "Kadınlar da Savaşı Yitirdi"
 date: 2014-11-28
 last_modified_at: 2020-04-16
-categories: [Turkish, Travel]
+categories: [Turkish, Personal]
 tags: [Türkçe, Evrim, Evolution, Education, Eğitim]
 excerpt: "İstanbul Devlet Tiyatrosu gururla sunar. *Yönetmen: Galip Erdal*"
 header:
