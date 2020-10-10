@@ -2,6 +2,7 @@
 layout: single
 title: "Growth with Systematic Bliss"
 date: 2020-10-10
+last_modified_at: 2020-10-10
 categories: [English, Personal]
 tags: [Growth, Turkish, Personal]
 excerpt: "Growth with big goals is an illusion. Growth without goals is too. We need the middle ground, and this is how I approach."
@@ -21,7 +22,7 @@ I grew up in an environment where I had to concentrate on test results in all re
 
 I had yearly and quarterly goals divided into months. I even got help from one coach while creating my old system. We both were proud of coming up with that system. I tried to stick to it for around half a year. After not accomplishing my monthly and quarterly goals, I felt overwhelmed. So, the change was inevitable, and I took the completely opposite approach and dropped all my goals.
 
-After reading [Growth Without Goals](http://investorfieldguide.com/growth-without-goals/){:target="_blank"} from Patrick O'Shaughnessy, I thought a lot about my broken system. It's hard to change something embedded in your bones, soul, and thoughts. It takes years, if not months. When your life is based on goals, changing it requires a restart from the bottom. The first step to the bottom is a realization. I quickly noticed that my current system isn't as productive as I thought and even became one reason for my burnout (another story). I needed a new system, which will help fulfill my general curiosity about diverse topics. Therefore, I jumped on [what I found](https://jamesclear.com/goals-systems){:target="_blank"}: Kick out the goals, do what you enjoy.
+After reading [Growth Without Goals](http://investorfieldguide.com/growth-without-goals/){:target="_blank"} from Patrick O'Shaughnessy, I thought a lot about my broken system. It's hard to change something embedded in your bones, soul, and thoughts. It takes months, if not years. When your life is based on goals, changing it requires a restart from the bottom. The first step to the bottom is a realization. I quickly noticed that my current system isn't as productive as I thought and even became one reason for my burnout (another story). I needed a new system, which will help fulfill my general curiosity about diverse topics. Therefore, I jumped on [what I found](https://jamesclear.com/goals-systems){:target="_blank"}: Kick out the goals, do what you enjoy.
 
 It sounded like what I was looking for. Do what you love. Enjoy every moment of your life—carpe diem. Growth without goals is a shining scheme. It's so clear that it looks like a diamond. However, it comes with a price. First, this change was entirely psychological. The transformation of the mind is always the hardest. It requires mindfulness. Noticing your thoughts, naming them, and watching them from a distance is different than just being aware of them. I meditated, tried to accept and change how my mind works. It seemed working at first. But the change was colossal, and I failed again. Before trying to innovate, I needed to disclose what I had, one more time.
 
