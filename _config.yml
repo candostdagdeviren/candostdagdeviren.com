@@ -171,6 +171,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "tr"]
 
 # mimic GitHub Pages with --safe
 whitelist:

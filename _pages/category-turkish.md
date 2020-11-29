@@ -1,9 +1,8 @@
 ---
-title: Türkçe Yazılar
 layout: category
-permalink: /categories/Turkish/
+permalink: /categories/turkish/
 taxonomy: Turkish
 author_profile: true
 ---
 
-Yazdığım Türkçe yazıların tamamı
+# {% translate posts_category_tr %}

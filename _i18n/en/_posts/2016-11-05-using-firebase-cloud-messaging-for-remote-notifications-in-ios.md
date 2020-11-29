@@ -3,7 +3,7 @@ layout: single
 title: "Using Firebase Cloud Messaging for Remote Notifications in iOS"
 date: 2016-11-05
 last_modified_at: 2020-04-16
-categories: [Tools, English]
+categories: [Tools, English, Software Development]
 tags: [APNS, Apple, automate, Firebase, how to, iOS, Software, Software Development, swift, swift-3, swift3]
 header:
   overlay_image: assets/images/using-firebase-cloud-messaging-for-remote-notifications-in-ios/cover.png

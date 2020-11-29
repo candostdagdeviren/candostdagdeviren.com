@@ -11,6 +11,7 @@ header:
 read_time: true
 share: true
 related: true
+languages: ["tr"]
 ---
 
 Bir oyunu daha önce izlemediysem veya okumadıysam, o oyuna gitmeden önce internette kısa bir araştırma yapıyorum. Elime ne geçiyor? Hiçbir şey. Kimse mi yazmamış bu oyunu? Kimse mi izlediklerini dile getirmemiş? Evet, hiçkimse. Ben neden yazmayayım dedim ve ilk Medium postumda oyunu ve yorumlarımı anlatacağım. Genel bir şekilde bahseceğim ve izlemediyseniz oyunun büyüsünü kaçırmayacağım, söz.

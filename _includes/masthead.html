@@ -31,7 +31,7 @@ endcapture %} {% else %} {% capture logo_path %}{{ site.logo }}{% endcapture %}
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden"
-            >{{ site.data.ui-text[site.locale].search_label | default: "Toggle
+            >{{ site.data.ui-text[site.lang].search_label | default: "Toggle
             search" }}</span
           >
           <svg
@@ -50,7 +50,7 @@ endcapture %} {% else %} {% capture logo_path %}{{ site.logo }}{% endcapture %}
         {% endif %}
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden"
-            >{{ site.data.ui-text[site.locale].menu_label | default: "Toggle
+            >{{ site.data.ui-text[site.lang].menu_label | default: "Toggle
             menu" }}</span
           >
           <div class="navicon"></div>

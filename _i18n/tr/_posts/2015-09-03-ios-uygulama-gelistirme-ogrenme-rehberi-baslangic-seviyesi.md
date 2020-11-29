@@ -9,6 +9,7 @@ excerpt: "ctive-C ile iOS uygulama geliştirmeyi öğrenmek için internette var
 read_time: true
 share: true
 related: true
+languages: ["tr"]
 ---
 
 Rehber olarak hazırladığım bu yazıda Objective-C ile iOS uygulama geliştirmeyi öğrenmek için internette var olan eğitici blog yazılarını hangi sıralamayla takip etmeniz gerektiğini göstermek istedim. Malum, internette tonlarca eğitim var ve insan genelde nereden başlayacağını bilemez.

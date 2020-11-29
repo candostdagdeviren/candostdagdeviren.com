@@ -3,7 +3,7 @@ layout: single
 title: "Bir sektörel profesyonel için Almanya'da iş arama ve mülakat süreçleri"
 date: 2016-10-06
 last_modified_at: 2020-04-16
-categories: [Turkish, Travel]
+categories: [Turkish, Job-Hunt]
 tags: [Germany, Türkçe, Social, Work, Social Rights, Job Search]
 excerpt: "Almanya'da nasıl iş bulabilirim ve süreçler nasıl oluyor sorularının cevapları"
 read_time: true
