@@ -6,6 +6,8 @@ main:
   - title: "English(🇺🇸)"
     url: /categories/English
     description: All posts written in English
+  - title: "Portfolio"
+    url: "https://candostdagdeviren.com"
   - title: "Software Development"
     url: /categories/software-development
     description: All posts related to Software Development
