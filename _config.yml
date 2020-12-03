@@ -7,8 +7,8 @@ title_separator          : "-"
 name                     : "Candost Dagdeviren"
 description              : >- # this means to ignore newlines until "baseurl:"
   This is the place where Candost writes about technology, science and personal ideas.
-url                      : "https://candostdagdeviren.github.io/candostdagdeviren.com"
-baseurl                  : ""
+url                      : "https://candostdagdeviren.github.io"
+baseurl                  : "/candostdagdeviren.com"
 repository               : "candostdagdeviren/candostdagdeviren.com"
 github: [metadata]
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
