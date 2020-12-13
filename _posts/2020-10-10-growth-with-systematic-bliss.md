@@ -4,7 +4,7 @@ title: "Growth with Systematic Bliss"
 date: 2020-10-10
 last_modified_at: 2020-10-10
 categories: [English, Personal]
-tags: [Growth, Turkish, Personal]
+tags: [Growth, English, Personal]
 excerpt: "Growth with big goals is an illusion. Growth without goals is too. We need the middle ground, and this is how I approach."
 header:
   overlay_filter: rgba(0, 0, 0, 0.44)

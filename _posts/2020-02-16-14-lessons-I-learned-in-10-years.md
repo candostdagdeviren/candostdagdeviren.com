@@ -15,7 +15,7 @@ share: true
 related: true
 ---
 
-[This post is also available in Turkish 🇹🇷](/10-yilda-ogrendigim-14-ders){: .notice--info}
+[This post is also available in Turkish 🇹🇷](https://bitekdunya.com/10-yilda-ogrendigim-14-ders){: .notice--info}
 
 It's been ten years since I started coding. I've always wanted to stay in the steep acceleration part of the [learning curve](https://www.researchgate.net/figure/The-learning-curve-With-the-introduction-and-implementation-of-a-new-technique-high_fig2_237994914). When I look back, I recognized that learning the technical part was simpler than all the other things. After the realization, I wanted to write the lessons I learned from my mistakes. Some of them are life-lessons, but all of them apply to the software development world.
 
