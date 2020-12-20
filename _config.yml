@@ -59,9 +59,9 @@ author:
   location         : "Germany"
   email            :
   links:
-    - label: "Twitter (🇹🇷)"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/candostdagdevrn"
+    - label: "NEW BLOG (All content is moved to there)"
+      icon: "fab fa-fw"
+      url: "https://candost.blog"
     - label: "Tweets about Tech (🇺🇸)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/candosten"

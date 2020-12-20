@@ -2,8 +2,8 @@
 main:
   - title: "Portfolio"
     url: "https://candostdagdeviren.com"
-  - title: "Software Development"
-    url: /categories/software-development
-    description: All posts related to Software Development
+  - title: "NEW BLOG!"
+    url: "https://candost.blog"
+    description: All posts are moved to my new blog
   - title: "Turkish Posts"
     url: "https://bitekdunya.com"
